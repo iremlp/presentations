@@ -8,29 +8,34 @@ slideNumber: true
 
 
 
-# Catégorie 1
+# Catégorie 1 - Brouillon, essais et plans
 
 
-## Diapo 1.1
+## Diapo 1.1 - le plan ?
 
-Brouillon - idée de plan
 
 * Présentation du groupe
 * Ressources Moodle/GeoGebra
 * Stage algo
 * Carte micro-contrôleur
 
+## Diapo 1.2 - heu... et quoi d'autre ?
 
+?
 
 # Catégorie 2
 
 
-## Diapo 2.1
+## Présentation du groupe InEFLP
+**In**novation, **E**xpérimentation
+et **F**ormation en **L**ycée **P**rofessionnel.
 
-- idée 1
-- idée 2
-- idée 3
-- idée 4
+* 8 enseignants PLP Maths/Sciences
+* Thèmes de travail
+	* Formes scolaires innovantes
+	* Algorithme
+	* Micro-contrôleur
+
 
  
 ## Diapo 2.2
