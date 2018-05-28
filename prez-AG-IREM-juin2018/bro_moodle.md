@@ -1,6 +1,6 @@
 % Moodle
 % Présentation et exemple d'utilisation en maths/sciences
-% Pascal Padilla - 7 mai 2018
+% Pascal Padillaaa - 7 mai 2018
 
 ---
 slideNumber: true
