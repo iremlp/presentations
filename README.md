@@ -8,6 +8,11 @@ lors de l'AG de l'IREM d'Aix-Marseille qui a eu lieu le mercredi 6 juin 2018.
 Le diaporama a été écrit en markdown et est compilé avec pandoc.
 Le fichier généré est une page HTML.
 
+Pour modifier le diaporama, modifier le fichier **prez.md**.
+
+Pour le compiler et mettre à jour le fichier *prez.md.html*…
+…c'est une autre histoire…
+
 # Comment compiler
 
 Il faut installer pandoc (d'une façon ou d'une autre…)
