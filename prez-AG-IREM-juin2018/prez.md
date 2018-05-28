@@ -13,12 +13,12 @@ slideNumber: true
 
 ## Diapo 1.1
 
-Présentation d'un **outil** en ligne :
+Brouillon : idée de plan
 
-- description générale
-- exemples
-- perspectives
-
+* Présentation du groupe
+* Ressources Moodle/GeoGebra
+* Stage algo
+* Carte micro-contrôleur
 
 
 
