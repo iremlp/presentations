@@ -13,7 +13,7 @@ slideNumber: true
 
 ## Diapo 1.1
 
-Brouillon : idée de plan
+Brouillon - idée de plan
 
 * Présentation du groupe
 * Ressources Moodle/GeoGebra
