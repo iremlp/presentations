@@ -66,5 +66,5 @@ Une image
 
 Encore une image:
 
-![Un cours, vu par le prof](./res/fig-001.png)
+![Un cours, vu par le prof](./res/fig-110.png)
 
