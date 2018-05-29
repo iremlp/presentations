@@ -36,7 +36,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
 
 
-# Algorithmique
+# Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 ## Stage
 
