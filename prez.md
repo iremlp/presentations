@@ -59,7 +59,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
 Une image 
 
-![Atrium](/home/bouscadilla/eclipse-workspace/prez-moodle/res/fig-098.png){width=100%}
+![Atrium](./res/fig-098.png){width=100%}
 
 
 ## Diapo 3.2
