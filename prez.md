@@ -9,7 +9,8 @@ showNotes: false
 
 
 
-# Présentation du groupe
+# Présentation du groupe {data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
+
 
 ## groupe InEFLP 
 
@@ -28,7 +29,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
   
 
-# Formes scolaires innovantes
+# Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
 ## Moodle
 
