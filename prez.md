@@ -92,7 +92,7 @@ Ressources :
 ## Moodle - Diffusion
 ###[http://url.univ-irem.fr/moodle](http://url.univ-irem.fr/moodle)
 
-<iframe data-src="https://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="500px"></iframe>
+<iframe data-src="https://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="450px"></iframe>
 
 ## Moodle - Perspectives
 
