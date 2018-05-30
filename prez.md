@@ -29,7 +29,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 # Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
 ## Moodle
-### C'est quoi ?
+### C'est quoi ? 
 
 - plateforme d'apprentissage en ligne *LMS*
 - depuis 2002
