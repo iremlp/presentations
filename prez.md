@@ -55,7 +55,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 	* hors classe
 
 
-## Thème 1 - Appropriation
+## Moodle - Appropriation
 
 <video data-autoplay src="./res/moodle.mp4" width="80%"></video>
 
@@ -69,7 +69,39 @@ Ressources :
 </aside>
 
 
-## Travail du groupe - Analyse
+## Moodle - Analyse
+### Utile
+
+- élèves en activités
+- évaluations formatives
+- accès hors temps scolaire
+
+## Moodle - Analyse
+### Utilisable
+* contraintes matérielles fortes 
+	- parc informatique entièrement fonctionnel
+	- matériel spécifique
+	- accès internet pour tous
+* chronophage
+* outil complexe
+
+
+## Moodle - Diffusion
+###[http://url.univ-irem.fr/moodle](http://url.univ-irem.fr/moodle)
+
+<iframe data-src="http://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="500px"></iframe>
+
+## Moodle - Perspectives
+
+Intégration dans le nouveaux membres :
+
+* 2 enseignantes travaillant sur Chamilo
+	* réalisation et mutualisation de ressources (vidéos)
+	* recherche d'une structure, d'une organisation pertinente des activités/ressources
+* 1 enseignante travaillant sur les compétences
+	* moodle et les 5 compétences en maths/sciences
+* 2 enseignantes travaillant sur le travail par groupe
+	* articulation individus/numérique vs. groupes/îlots
 
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
