@@ -96,7 +96,7 @@ Ressources :
 
 ## Moodle - Perspectives
 
-Intégration dans le nouveaux membres :
+Intégration de nouveaux membres :
 
 * 2 enseignantes travaillant sur Chamilo
 	* réalisation et mutualisation de ressources (vidéos)
