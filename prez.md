@@ -18,11 +18,11 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 * 8 enseignants PLP Maths/Sciences
 
 
-## groupe InEFLP - Thèmes de travail
+## groupe InEFLP - Centres d'intérêts du groupe
 
-* Formes scolaires innovantes
-* Algorithme
-* Micro-contrôleur
+* **Thème 1** - Formes scolaires innovantes
+* **Thème 2** - Algorithme
+* **Thème 3** - Micro-contrôleur
 
 
 
@@ -55,17 +55,21 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 	* hors classe
 
 
-## Travail du groupe - Appropriation
+## Thème 1 - Appropriation
 
-<video data-autoplay src="./res/moodle.mp4"></video>
+<video data-autoplay src="./res/moodle.mp4" width="80%"></video>
 
 * prise en main depuis septembre 2017
-* création de ressources :
-	- vidéos (cours, méthode ou TP sciences)
-	- exercices dont certains **automatisé avec GeoGebra** 
+* création de ressources
+
+<aside class="notes">
+Ressources :
+* vidéos (cours, méthode ou TP sciences)
+* exercices dont certains **automatisé avec GeoGebra**
+</aside>
 
 
-## Travail du groupe - Analyse et 
+## Travail du groupe - Analyse
 
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
