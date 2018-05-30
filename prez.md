@@ -45,17 +45,27 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 * **automatiser** certaines tâches comme la notation ou le feedback
 
 
-## Moodle {data-background-color="#bb3333"}
+## Moodle {data-background-color="#cc3333"}
 ### Quoi de nouveau alors ?
 
 - intégration à l'ENT académique Atrium
-- accès à internet pour tous en classe et **hors** classe
-- la mode des *classes inversées*
 - parc informatique : PC & tablettes
+- accès à internet pour tous
+	* en classe
+	* hors classe
 
 
+## Travail du groupe - Appropriation
+
+<video data-autoplay src="./res/moodle.mp4"></video>
+
+* prise en main depuis septembre 2017
+* création de ressources :
+	- vidéos (cours, méthode ou TP sciences)
+	- exercices dont certains **automatisé avec GeoGebra** 
 
 
+## Travail du groupe - Analyse et 
 
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
