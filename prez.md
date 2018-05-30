@@ -11,13 +11,11 @@ showNotes: false
 
 # Présentation du groupe {data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
-
 ## groupe InEFLP 
 
 * *InEFLP* : **In**novation, **E**xpérimentation 
 et **F**ormation en **L**ycée **P**rofessionnel.
 * 8 enseignants PLP Maths/Sciences
-
 
 
 ## groupe InEFLP - Thèmes de travail
@@ -27,12 +25,10 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 * Micro-contrôleur
 
 
-  
 
 # Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
 ## Moodle
-
 
 
 
@@ -42,22 +38,13 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
 
 
-
-# Micro-contrôleur
+# Micro-contrôleur {data-background-video="./res/monsieurB.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 ## STM32
 
 
 
-
-
-
-
-
-
 # à effacer plus tard…
-
-
 
 ## diapo 3
 
@@ -75,13 +62,11 @@ Oh hey, these are some notes. They'll be hidden in your presentation, but you ca
 
 ## Diapo 3.1
 
-
 <video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 
 Une image 
 
 ![Atrium](./res/fig-098.png){width=100%}
-
 
 ## Diapo 3.2 {data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm"}
 
