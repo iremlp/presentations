@@ -29,6 +29,32 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 # Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
 ## Moodle
+### C'est quoi ?
+
+- plateforme d'apprentissage en ligne *LMS*
+- depuis 2002
+- équivalent à *Chamilo*, *Claroline*, *M@gistère*, *Dokeos*, *Wims*, etc.
+
+
+## Moodle
+### Ça sert à quoi ?
+
+* **diffuser** du contenu
+* **suivre** l'activité des élèves
+* **récupérer** des productions
+* **automatiser** certaines tâches comme la notation ou le feedback
+
+
+## Moodle {data-background-color="#bb3333"}
+### Quoi de nouveau alors ?
+
+- intégration à l'ENT académique Atrium
+- accès à internet pour tous en classe et **hors** classe
+- la mode des *classes inversées*
+- parc informatique : PC & tablettes
+
+
+
 
 
 
