@@ -11,9 +11,9 @@ showNotes: false
 
 # Présentation du groupe {data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
-## groupe InEFLP 
+## groupe InEFLP
 
-* *InEFLP* : **In**novation, **E**xpérimentation 
+* *InEFLP* : **In**novation, **E**xpérimentation
 et **F**ormation en **L**ycée **P**rofessionnel.
 * 8 enseignants PLP Maths/Sciences
 
@@ -32,7 +32,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 # Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
 ## Moodle
-### C'est quoi ? 
+### C'est quoi ?
 
 - plateforme d'apprentissage en ligne *LMS*
 - depuis 2002
@@ -81,7 +81,7 @@ Ressources :
 
 ## Moodle - Analyse
 ### Utilisable
-* contraintes matérielles fortes 
+* contraintes matérielles fortes
 	- parc informatique entièrement fonctionnel
 	- matériel spécifique
 	- accès internet pour tous
@@ -115,6 +115,34 @@ Intégration de nouveaux membres :
 
 # Micro-contrôleur {data-background-video="./res/monsieurB.mp4" data-background-video-loop="true" data-background-size="contain"}
 
+## Micro:Bit
+### C'est quoi ?
+
+Une carte à l'initiative de la BBC pour équiper
+tous les collégiens anglais.
+
+Un petit objet robuste programmable
+par un enfant de 10 ans
+
+De grandes possibilités d'interactions
+avec l'environnement.
+
+
+## Micro:Bit
+### Pour quoi faire ?
+
+
+* aborder la partie algorithmique du cycle4 (3ème Prépa-Pro)
+* initier les élèves à la programmation en AP
+* réaliser des projets incluant un objet  programmable
+* aborder des notions de mathématiques du programme de BAC Pro
+
+## Micro:Bit
+### Comment ?
+
+
+
+
 ## STM32
 
 
@@ -139,7 +167,7 @@ Oh hey, these are some notes. They'll be hidden in your presentation, but you ca
 
 <video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 
-Une image 
+Une image
 
 ![Atrium](./res/fig-098.png){width=100%}
 
@@ -148,4 +176,3 @@ Une image
 Encore une image:
 
 ![Un cours, vu par le prof](./res/fig-110.png)
-
