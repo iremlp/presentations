@@ -109,7 +109,7 @@ Intégration de nouveaux membres :
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
 
-## Stage
+## Stage{data-background-image="./res/boss5.jpg" data-background-size="contain" }
 
 
 
