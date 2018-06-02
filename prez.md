@@ -15,7 +15,7 @@ showNotes: false
 
 * *InEFLP* : **In**novation, **E**xpérimentation
 et **F**ormation en **L**ycée **P**rofessionnel.
-* 8 enseignants PLP Maths/Sciences
+* 8 enseignants PLP Maths/Sciences (2017/2018)
 
 
 ## groupe InEFLP - Centres d'intérêts du groupe
@@ -75,18 +75,22 @@ Ressources :
 ## Moodle - Analyse
 ### Utile
 
-- élèves en activités
-- évaluations formatives
-- accès hors temps scolaire
+
+* point d'entré unique pour diffuser et suivre l'activité
+* élèves en activités, mobilisé, concentré
+* évaluations formatives
+* intégration de médias variés
+* accès hors temps scolaire
+
 
 ## Moodle - Analyse
 ### Utilisable
+
 * contraintes matérielles fortes
 	- parc informatique entièrement fonctionnel
-	- matériel spécifique
 	- accès internet pour tous
-* chronophage
-* outil complexe
+* chronophage en amont
+* outil riche et donc complexe
 
 
 ## Moodle - Diffusion
