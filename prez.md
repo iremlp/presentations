@@ -32,7 +32,9 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 # Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
 
 ## Moodle
-### C'est quoi ?
+
+<h1 class="fragment fade-up">C'est quoi ?</h1>
+
 
 - plateforme d'apprentissage en ligne *LMS*
 - depuis 2002
@@ -40,7 +42,9 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
 
 ## Moodle
-### Ça sert à quoi ?
+
+
+<h1 class="fragment fade-up">Ça sert à quoi ?</h1>
 
 * **diffuser** du contenu
 * **suivre** l'activité des élèves
@@ -48,8 +52,9 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 * **automatiser** certaines tâches comme la notation ou le feedback
 
 
-## Moodle {data-background-color="#cc3333"}
-### Quoi de nouveau alors ?
+## Moodle {data-background-color="#bb1111"}
+
+<h3 class="fragment fade-up"> Quoi de nouveau alors ?</h3>
 
 - intégration à l'ENT académique Atrium
 - parc informatique : PC & tablettes
@@ -68,8 +73,8 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 <aside class="notes">
 Ressources :
 
-* vidéos (cours, méthode ou TP sciences)
-* exercices dont certains **automatisé avec GeoGebra**
+vidéos (cours, méthode ou TP sciences)
+exercices dont certains **automatisé avec GeoGebra**
 </aside>
 
 
@@ -84,8 +89,8 @@ Ressources :
 * accès hors temps scolaire
 
 <aside class="notes">
-* outil info capte l'attention
-* gamification avec les Badges
+outil info capte l'attention
+gamification avec les Badges
 </aside>
 
 ## Moodle - Analyse
@@ -103,6 +108,7 @@ Ressources :
 
 <iframe data-src="https://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="450px"></iframe>
 
+
 ## Moodle - Perspectives
 
 Intégration de nouveaux membres :
@@ -118,19 +124,59 @@ Intégration de nouveaux membres :
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
 
-## Stage Algo {data-background-image="./res/boss5.jpg" data-background-size="contain" }
+## Stage Algo 
+
+---
+{data-background-image="./res/boss5.jpg" data-background-size="contain" }
+---
 
 * Stage mis en place par les IEN MSPC
 * 2017-2018 : 
 	* 3×2 journées pour les PLP MSPC
 	* 2×1 journée pour les PE enseignant en SEGPA
+ 
 
 <aside class="notes">
-*  2016-2017 : formations…
-	* 3PP
-	* formateurs
-	* PLP
+2016-2017 : formations:
+
+3PP
+formateurs
+PLP
 </aside>
+
+
+##
+### Informatique branchée et débranchée
+![](./res/stg34.jpg){width=45%}
+![](./res/stg32.jpg){width=40%}
+
+##
+### Réflexion et travail par groupes
+![](./res/stg31.jpg){width=45%}
+![](./res/stg33.jpg){width=45%}
+
+
+##
+### De la programmation par blocs
+![](./res/stg01.jpg){width=45%}
+![](./res/stg03.jpg){width=45%}
+
+
+
+## 
+### Des stagiaires perplexes
+![](./res/stg02.jpg){width=45%}
+![](./res/stg04.jpg){width=45%}
+
+##
+### Des objets connectés
+
+![](./res/stg13.jpg){width=40%}
+![](./res/stg12.jpg){width=40%}
+
+##  {data-background-video="./res/galton2.mp4" data-background-video-loop="true" data-background-size="contain"} 
+
+<h1 class="fragment current-visible">Micro:bit</h1>
 
 
 # Micro-contrôleur {data-background-video="./res/monsieurB.mp4" data-background-video-loop="true" data-background-size="contain"}
@@ -171,7 +217,9 @@ avec l'environnement.
 
 ## diapo 3
 
-<iframe data-src="http://hakim.se"></iframe>
+<iframe data-src="https://photos.google.com/share/AF1QipO_6d8crrdLVdzmyC50kZvGWz74xf0RKV2IVrVgyJIO1RWEZnvf27_QQhzS8qIDkQ/photo/AF1QipOSWDzUhDyPmvUbV8Stug84MymvrOBHrsUO85jU?key=WFpvbzhDRHBMQy1PRUc5OGhNT2JmYjFKbFVfaEFB"></iframe>
+
+
 
 ## Diapo 3.0
 
@@ -196,3 +244,29 @@ Une image
 Encore une image:
 
 ![Un cours, vu par le prof](./res/fig-110.png)
+
+
+## test fragments
+
+<span class="fragment fade-in">
+	<span class="fragment fade-out">I'll fade in, then out</span>
+</span>
+
+<p class="fragment" data-fragment-index="3">Appears last</p>
+
+<p class="fragment" data-fragment-index="1">Appears first</p>
+
+<p class="fragment" data-fragment-index="2">Appears second</p>
+
+<p class="fragment grow">grow</p>
+<p class="fragment shrink">shrink</p>
+<p class="fragment fade-out">fade-out</p>
+<p class="fragment fade-up">fade-up (also down, left and right!)</p>
+<p class="fragment current-visible">visible only once</p>
+<p class="fragment current-visible">visible only once</p>
+<p class="fragment current-visible">visible only once</p>
+<p class="fragment highlight-current-blue">blue only once</p>
+<p class="fragment highlight-red">highlight-red</p>
+<p class="fragment highlight-green">highlight-green</p>
+<p class="fragment highlight-blue">highlight-blue</p>
+
