@@ -67,6 +67,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
 <aside class="notes">
 Ressources :
+
 * vidéos (cours, méthode ou TP sciences)
 * exercices dont certains **automatisé avec GeoGebra**
 </aside>
@@ -82,6 +83,10 @@ Ressources :
 * intégration de médias variés
 * accès hors temps scolaire
 
+<aside class="notes">
+* outil info capte l'attention
+* gamification avec les Badges
+</aside>
 
 ## Moodle - Analyse
 ### Utilisable
@@ -113,8 +118,19 @@ Intégration de nouveaux membres :
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
 
-## Stage{data-background-image="./res/boss5.jpg" data-background-size="contain" }
+## Stage Algo {data-background-image="./res/boss5.jpg" data-background-size="contain" }
 
+* Stage mis en place par les IEN MSPC
+* 2017-2018 : 
+	* 3×2 journées pour les PLP MSPC
+	* 2×1 journée pour les PE enseignant en SEGPA
+
+<aside class="notes">
+*  2016-2017 : formations…
+	* 3PP
+	* formateurs
+	* PLP
+</aside>
 
 
 # Micro-contrôleur {data-background-video="./res/monsieurB.mp4" data-background-video-loop="true" data-background-size="contain"}
