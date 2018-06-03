@@ -150,14 +150,12 @@ Intégration de nouveaux membres :
 * 2017-2018 :
 	* 3×2 journées pour les PLP MSPC
 	* 2×1 journée pour les PE enseignant en SEGPA
+* Public hétérogène
 
 
 <aside class="notes">
-2016-2017 : formations:
-
-3PP
-formateurs
-PLP
+2016-2017 : formations (3PP, formateurs, PLP)
+hétérogène pour diverses raisons (niveaux, stages précédents…)
 </aside>
 
 
