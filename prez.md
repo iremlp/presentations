@@ -18,11 +18,12 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 * 8 enseignants PLP Maths/Sciences (2017/2018)
 
 
-## groupe InEFLP - Centres d'intérêts du groupe
+## groupe InEFLP
+###Centres d'intérêts du groupe
 
-* **Thème 1** - Formes scolaires innovantes
-* **Thème 2** - Algorithme
-* **Thème 3** - Micro-contrôleur
+* *In*ovation <h4 class="fragment fade-up">Formes scolaires innovantes</h4>
+* *E*xpérimentation <h4 class="fragment fade-up">Micro-contrôleur</h4>
+* *F*ormation <h4 class="fragment fade-up">Algorithme</h4>
 
 
 
@@ -39,6 +40,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 - plateforme d'apprentissage en ligne *LMS*
 - depuis 2002
 - équivalent à *Chamilo*, *Claroline*, *M@gistère*, *Dokeos*, *Wims*, etc.
+
 
 
 ## Moodle
