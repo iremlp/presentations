@@ -179,7 +179,7 @@ PLP
 <h1 class="fragment current-visible">Micro:bit</h1>
 
 
-# Micro-contrôleur {data-background-video="./res/monsieurB.mp4" data-background-video-loop="true" data-background-size="contain"}
+# Micro-contrôleur {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 ## Micro:Bit
 ### C'est quoi ?
