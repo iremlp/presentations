@@ -9,27 +9,38 @@ showNotes: false
 
 
 
-# Présentation du groupe {data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
+# Présentation du groupe 
+
+---
+{data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
+---
 
 ## groupe InEFLP
+### Innovation Expérimentation et Formation en Lycée Professionnel
 
-* *InEFLP* : **In**novation, **E**xpérimentation
-et **F**ormation en **L**ycée **P**rofessionnel.
-* 8 enseignants PLP Maths/Sciences (2017/2018)
-
-
-## groupe InEFLP - Centres d'intérêts du groupe
-
-* **Thème 1** - Formes scolaires innovantes
-* **Thème 2** - Algorithme
-* **Thème 3** - Micro-contrôleur
+*  8 enseignants PLP Maths/Sciences (2017/2018)
 
 
+## groupe InEFLP
+###Centres d'intérêts du groupe
+
+* Innovation
+<h4 class="fragment fade-up">Formes scolaires innovantes</h4>
+* Expérimentation
+<h4 class="fragment fade-up">Micro-contrôleur</h4>
+* Formation
+<h4 class="fragment fade-up">Algorithme</h4>
 
 
 
 
-# Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
+
+
+# Innovation <br> Formes scolaires
+
+---
+{data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
+---
 
 ## Moodle
 
@@ -39,6 +50,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 - plateforme d'apprentissage en ligne *LMS*
 - depuis 2002
 - équivalent à *Chamilo*, *Claroline*, *M@gistère*, *Dokeos*, *Wims*, etc.
+
 
 
 ## Moodle
@@ -63,7 +75,7 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 	* hors classe
 
 
-## Moodle - Appropriation
+## S'approprier Moodle
 
 <video data-autoplay src="./res/moodle.mp4" width="80%"></video>
 
@@ -78,12 +90,12 @@ exercices dont certains **automatisé avec GeoGebra**
 </aside>
 
 
-## Moodle - Analyse
+## Analyser Moodle
 ### Utile
 
 
 * point d'entré unique pour diffuser et suivre l'activité
-* élèves en activités, mobilisé, concentré
+* élèves en activités, mobilisés, concentrés
 * évaluations formatives
 * intégration de médias variés
 * accès hors temps scolaire
@@ -93,17 +105,17 @@ outil info capte l'attention
 gamification avec les Badges
 </aside>
 
-## Moodle - Analyse
+## Analyser Moodle
 ### Utilisable
 
 * contraintes matérielles fortes
 	- parc informatique entièrement fonctionnel
-	- accès internet pour tous
+	- accès internet pour les élèves dans toutes les salles
 * chronophage en amont
 * outil riche et donc complexe
 
 
-## Moodle - Diffusion
+## Diffuser Moodle
 ###[http://url.univ-irem.fr/moodle](http://url.univ-irem.fr/moodle)
 
 <iframe data-src="https://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="450px"></iframe>
@@ -122,7 +134,11 @@ Intégration de nouveaux membres :
 	* articulation individus/numérique vs. groupes/îlots
 
 
-# Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
+# Formation <br> Algorithmique
+ 
+---
+{data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
+---
 
 ## Stage Algo
 
@@ -134,14 +150,12 @@ Intégration de nouveaux membres :
 * 2017-2018 :
 	* 3×2 journées pour les PLP MSPC
 	* 2×1 journée pour les PE enseignant en SEGPA
+* Public hétérogène
 
 
 <aside class="notes">
-2016-2017 : formations:
-
-3PP
-formateurs
-PLP
+2016-2017 : formations (3PP, formateurs, PLP)
+hétérogène pour diverses raisons (niveaux, stages précédents…)
 </aside>
 
 
@@ -179,19 +193,17 @@ PLP
 <h1 class="fragment current-visible">Micro:bit</h1>
 
 
-# Micro-contrôleur {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
+
+# Expérimentation <br> Micro-contrôleur {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 ## Micro:Bit
 ### C'est quoi ?
 
-Une carte à l'initiative de la BBC pour équiper
-tous les collégiens anglais.
+Une carte à l'initiative de la BBC pour équiper tous les collégiens anglais.
 
-Un petit objet robuste programmable
-par un enfant de 10 ans
+Un petit objet robuste programmable par un enfant de 10 ans
 
-De grandes possibilités d'interactions
-avec l'environnement.
+De grandes possibilités d'interactions avec l'environnement.
 
 
 ## Micro:Bit
@@ -206,6 +218,11 @@ avec l'environnement.
 ## Micro:Bit
 ### Comment ?
 
+<video data-autoplay src="./res/makecode.mp4" width="50%"></video>
+
+* interface en ligne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* programmation par bloc ou en javascript
+* simulateur
 
 
 
@@ -213,11 +230,28 @@ avec l'environnement.
 
 
 
+# Merci
+##Groupe InEFLP
+
+<span class="fragment fade-down">
+<h4>Innovation</h4>
+Formes scolaires innovantes
+
+<h4>Expérimentation</h4>
+Micro-contrôleur
+
+<h4>Formation</h4>
+Algorithme
+
+<h4> Lycée Professionnel</h4>
+</span>
+
+
 # à effacer plus tard…
 
 ## diapo 3
 
-<iframe data-src="https://photos.google.com/share/AF1QipO_6d8crrdLVdzmyC50kZvGWz74xf0RKV2IVrVgyJIO1RWEZnvf27_QQhzS8qIDkQ/photo/AF1QipOSWDzUhDyPmvUbV8Stug84MymvrOBHrsUO85jU?key=WFpvbzhDRHBMQy1PRUc5OGhNT2JmYjFKbFVfaEFB"></iframe>
+<iframe data-src="https://photos.google.com/share/AF1QipO_6d8crrdLVdzmyC50kZvGWz74xf0RKV2IVrVgyJIO1RWEZnvf27_QQhzS8qIDkQ/photo/AF1QipOSWDzUhDyPmvUbV8Stug84MymvrOBHrsUO85jU?key=WFpvbzhDRHBMQy1PRUc5OGhNT2JmYjFKbFVfaEFB" ></iframe>
 
 
 
