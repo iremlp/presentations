@@ -228,6 +228,23 @@ avec l'environnement.
 
 
 
+# Merci
+##Groupe InEFLP
+
+<span class="fragment fade-down">
+<h4>Inovation</h4>
+Formes scolaires innovantes
+
+<h4>Expérimentation</h4>
+Micro-contrôleur
+
+<h4>Formation</h4>
+Algorithme
+
+<h4> Lycée Professionnel</h4>
+</span>
+
+
 # à effacer plus tard…
 
 ## diapo 3
