@@ -124,17 +124,17 @@ Intégration de nouveaux membres :
 
 # Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
 
-## Stage Algo 
+## Stage Algo
 
 ---
 {data-background-image="./res/boss5.jpg" data-background-size="contain" }
 ---
 
 * Stage mis en place par les IEN MSPC
-* 2017-2018 : 
+* 2017-2018 :
 	* 3×2 journées pour les PLP MSPC
 	* 2×1 journée pour les PE enseignant en SEGPA
- 
+
 
 <aside class="notes">
 2016-2017 : formations:
@@ -163,7 +163,7 @@ PLP
 
 
 
-## 
+##
 ### Des stagiaires perplexes
 ![](./res/stg02.jpg){width=45%}
 ![](./res/stg04.jpg){width=45%}
@@ -174,7 +174,7 @@ PLP
 ![](./res/stg13.jpg){width=40%}
 ![](./res/stg12.jpg){width=40%}
 
-##  {data-background-video="./res/galton2.mp4" data-background-video-loop="true" data-background-size="contain"} 
+##  {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 <h1 class="fragment current-visible">Micro:bit</h1>
 
@@ -269,4 +269,3 @@ Encore une image:
 <p class="fragment highlight-red">highlight-red</p>
 <p class="fragment highlight-green">highlight-green</p>
 <p class="fragment highlight-blue">highlight-blue</p>
-
