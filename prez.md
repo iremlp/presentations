@@ -84,9 +84,10 @@ showNotes: false
 
 <aside class="notes">
 Ressources :
-
-vidéos (cours, méthode ou TP sciences)
-exercices dont certains **automatisé avec GeoGebra**
+<ul>
+<li>vidéos (cours, méthode ou TP sciences)</li>
+<li>exercices dont certains **automatisé avec GeoGebra**</li>
+</ul>
 </aside>
 
 
@@ -101,8 +102,10 @@ exercices dont certains **automatisé avec GeoGebra**
 * accès hors temps scolaire
 
 <aside class="notes">
-outil info capte l'attention
-gamification avec les Badges
+<ul>
+<li>outil info capte l'attention</li>
+<li>gamification avec les Badges</li>
+</ul>
 </aside>
 
 ## Analyser Moodle
@@ -154,8 +157,10 @@ Intégration de nouveaux membres :
 
 
 <aside class="notes">
-2016-2017 : formations (3PP, formateurs, PLP)
-hétérogène pour diverses raisons (niveaux, stages précédents…)
+<ul>
+<li>2016-2017 : formations (3PP, formateurs, PLP)</li>
+<li>hétérogène pour diverses raisons (niveaux, stages précédents…)</li>
+</ul>
 </aside>
 
 
