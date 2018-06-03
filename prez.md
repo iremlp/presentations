@@ -184,14 +184,11 @@ PLP
 ## Micro:Bit
 ### C'est quoi ?
 
-Une carte à l'initiative de la BBC pour équiper
-tous les collégiens anglais.
+Une carte à l'initiative de la BBC pour équiper tous les collégiens anglais.
 
-Un petit objet robuste programmable
-par un enfant de 10 ans
+Un petit objet robuste programmable par un enfant de 10 ans
 
-De grandes possibilités d'interactions
-avec l'environnement.
+De grandes possibilités d'interactions avec l'environnement.
 
 
 ## Micro:Bit
@@ -206,6 +203,11 @@ avec l'environnement.
 ## Micro:Bit
 ### Comment ?
 
+<video data-autoplay src="./res/makecode.mp4" width="50%"></video>
+
+* interface en ligne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* programmation par bloc ou en javascript
+* simulateur
 
 
 
@@ -217,7 +219,7 @@ avec l'environnement.
 
 ## diapo 3
 
-<iframe data-src="https://photos.google.com/share/AF1QipO_6d8crrdLVdzmyC50kZvGWz74xf0RKV2IVrVgyJIO1RWEZnvf27_QQhzS8qIDkQ/photo/AF1QipOSWDzUhDyPmvUbV8Stug84MymvrOBHrsUO85jU?key=WFpvbzhDRHBMQy1PRUc5OGhNT2JmYjFKbFVfaEFB"></iframe>
+<iframe data-src="https://photos.google.com/share/AF1QipO_6d8crrdLVdzmyC50kZvGWz74xf0RKV2IVrVgyJIO1RWEZnvf27_QQhzS8qIDkQ/photo/AF1QipOSWDzUhDyPmvUbV8Stug84MymvrOBHrsUO85jU?key=WFpvbzhDRHBMQy1PRUc5OGhNT2JmYjFKbFVfaEFB" ></iframe>
 
 
 
