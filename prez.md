@@ -16,16 +16,15 @@ showNotes: false
 ---
 
 ## groupe InEFLP
+### Innovation Expérimentation et Formation en Lycée Professionnel
 
-* *InEFLP* : **In**novation, **E**xpérimentation
-et **F**ormation en **L**ycée **P**rofessionnel.
-* 8 enseignants PLP Maths/Sciences (2017/2018)
+*  8 enseignants PLP Maths/Sciences (2017/2018)
 
 
 ## groupe InEFLP
 ###Centres d'intérêts du groupe
 
-* *In*ovation <h4 class="fragment fade-up">Formes scolaires innovantes</h4>
+* *In*novation <h4 class="fragment fade-up">Formes scolaires innovantes</h4>
 * *E*xpérimentation <h4 class="fragment fade-up">Micro-contrôleur</h4>
 * *F*ormation <h4 class="fragment fade-up">Algorithme</h4>
 
@@ -232,7 +231,7 @@ avec l'environnement.
 ##Groupe InEFLP
 
 <span class="fragment fade-down">
-<h4>Inovation</h4>
+<h4>Innovation</h4>
 Formes scolaires innovantes
 
 <h4>Expérimentation</h4>
