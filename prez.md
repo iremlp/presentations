@@ -95,7 +95,7 @@ exercices dont certains **automatisé avec GeoGebra**
 
 
 * point d'entré unique pour diffuser et suivre l'activité
-* élèves en activités, mobilisé, concentré
+* élèves en activités, mobilisés, concentrés
 * évaluations formatives
 * intégration de médias variés
 * accès hors temps scolaire
@@ -110,7 +110,7 @@ gamification avec les Badges
 
 * contraintes matérielles fortes
 	- parc informatique entièrement fonctionnel
-	- accès internet pour tous
+	- accès internet pour les élèves dans toutes les salles
 * chronophage en amont
 * outil riche et donc complexe
 
