@@ -9,7 +9,11 @@ showNotes: false
 
 
 
-# Présentation du groupe {data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
+# Présentation du groupe 
+
+---
+{data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
+---
 
 ## groupe InEFLP
 
@@ -30,7 +34,11 @@ et **F**ormation en **L**ycée **P**rofessionnel.
 
 
 
-# Formes scolaires innovantes {data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
+# Innovation <br> Formes scolaires
+
+---
+{data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
+---
 
 ## Moodle
 
@@ -124,7 +132,11 @@ Intégration de nouveaux membres :
 	* articulation individus/numérique vs. groupes/îlots
 
 
-# Algorithmique {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
+# Formation <br> Algorithmique
+ 
+---
+{data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
+---
 
 ## Stage Algo
 
@@ -181,7 +193,8 @@ PLP
 <h1 class="fragment current-visible">Micro:bit</h1>
 
 
-# Micro-contrôleur {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
+
+# Expérimentation <br> Micro-contrôleur {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 ## Micro:Bit
 ### C'est quoi ?
