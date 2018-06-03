@@ -24,9 +24,12 @@ showNotes: false
 ## groupe InEFLP
 ###Centres d'intérêts du groupe
 
-* *In*novation <h4 class="fragment fade-up">Formes scolaires innovantes</h4>
-* *E*xpérimentation <h4 class="fragment fade-up">Micro-contrôleur</h4>
-* *F*ormation <h4 class="fragment fade-up">Algorithme</h4>
+* Innovation
+<h4 class="fragment fade-up">Formes scolaires innovantes</h4>
+* Expérimentation
+<h4 class="fragment fade-up">Micro-contrôleur</h4>
+* Formation
+<h4 class="fragment fade-up">Algorithme</h4>
 
 
 
@@ -72,7 +75,7 @@ showNotes: false
 	* hors classe
 
 
-## Moodle - Appropriation
+## S'approprier Moodle
 
 <video data-autoplay src="./res/moodle.mp4" width="80%"></video>
 
@@ -87,7 +90,7 @@ exercices dont certains **automatisé avec GeoGebra**
 </aside>
 
 
-## Moodle - Analyse
+## Analyser Moodle
 ### Utile
 
 
@@ -102,7 +105,7 @@ outil info capte l'attention
 gamification avec les Badges
 </aside>
 
-## Moodle - Analyse
+## Analyser Moodle
 ### Utilisable
 
 * contraintes matérielles fortes
@@ -112,7 +115,7 @@ gamification avec les Badges
 * outil riche et donc complexe
 
 
-## Moodle - Diffusion
+## Diffuser Moodle
 ###[http://url.univ-irem.fr/moodle](http://url.univ-irem.fr/moodle)
 
 <iframe data-src="https://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="450px"></iframe>
