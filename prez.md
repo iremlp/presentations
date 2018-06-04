@@ -84,9 +84,10 @@ showNotes: false
 
 <aside class="notes">
 Ressources :
-
-vidéos (cours, méthode ou TP sciences)
-exercices dont certains **automatisé avec GeoGebra**
+<ul>
+<li>vidéos (cours, méthode ou TP sciences)</li>
+<li>exercices dont certains **automatisé avec GeoGebra**</li>
+</ul>
 </aside>
 
 
@@ -101,8 +102,10 @@ exercices dont certains **automatisé avec GeoGebra**
 * accès hors temps scolaire
 
 <aside class="notes">
-outil info capte l'attention
-gamification avec les Badges
+<ul>
+<li>outil info capte l'attention</li>
+<li>gamification avec les Badges</li>
+</ul>
 </aside>
 
 ## Analyser Moodle
@@ -154,8 +157,10 @@ Intégration de nouveaux membres :
 
 
 <aside class="notes">
-2016-2017 : formations (3PP, formateurs, PLP)
-hétérogène pour diverses raisons (niveaux, stages précédents…)
+<ul>
+<li>2016-2017 : formations (3PP, formateurs, PLP)</li>
+<li>hétérogène pour diverses raisons (niveaux, stages précédents…)</li>
+</ul>
 </aside>
 
 
@@ -215,19 +220,57 @@ De grandes possibilités d'interactions avec l'environnement.
 * réaliser des projets incluant un objet  programmable
 * aborder des notions de mathématiques du programme de BAC Pro
 
-## Micro:Bit
+## Micro:Bit 
 ### Comment ?
 
 <video data-autoplay src="./res/makecode.mp4" width="50%"></video>
+
 
 * interface en ligne [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * programmation par bloc ou en javascript
 * simulateur
 
 
+## Micro:Bit 
+### Comment ?
 
-## STM32
+<video data-autoplay src="./res/mu.mp4" width="50%"></video>
 
+
+* interface en local *mu*
+* programmation par Python
+* grapheur
+
+
+## STMicroelectronics
+
+STMicroelectronics est en train de développer sa
+carte de prototypage pour l'éducation.
+
+![](./res/st.png){width=45%}
+
+
+<aside class="notes">
+<ul>
+<li>société d'origine France/Italie / commercialise des puces électroniques
+ / un leader mondial du secteur de la prod. de semi-conducteurs</li>
+<li>Algo LP <=> objets connectés / mesures physiques / objets concrets<li>
+</ul>
+</aside>
+
+## STM32 Education
+
+Partenariat avec l'académie d'Aix-Marseille :
+*Promotion de l'électronique, du numérique et du codage*.
+
+2017/2018 : 1ère phase de test en cours sur un prototype. 
+
+![Prototype](./res/stm32.png){width=40%}
+![Prototype](./res/acad.png){width=30%}
+
+## STM32 conseil
+
+![](./res/stm32makecode.png){width=100%}
 
 
 # Merci
