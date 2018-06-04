@@ -220,7 +220,7 @@ De grandes possibilités d'interactions avec l'environnement.
 * réaliser des projets incluant un objet  programmable
 * aborder des notions de mathématiques du programme de BAC Pro
 
-## Micro:Bit
+## Micro:Bit 
 ### Comment ?
 
 <video data-autoplay src="./res/makecode.mp4" width="50%"></video>
