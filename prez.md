@@ -247,7 +247,7 @@ De grandes possibilités d'interactions avec l'environnement.
 STMicroelectronics est en train de développer sa
 carte de prototypage pour l'éducation.
 
-![Prototype](./res/stm32.png){width=45%}
+![](./res/st.png){width=45%}
 
 
 <aside class="notes">
@@ -265,6 +265,7 @@ Partenariat avec l'académie d'Aix-Marseille :
 
 2017/2018 : 1ère phase de test en cours sur un prototype. 
 
+![Prototype](./res/stm32.png){width=45%}
 
 ## STM32 conseil
 
