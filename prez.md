@@ -265,7 +265,8 @@ Partenariat avec l'académie d'Aix-Marseille :
 
 2017/2018 : 1ère phase de test en cours sur un prototype. 
 
-![Prototype](./res/stm32.png){width=45%}
+![Prototype](./res/stm32.png){width=40%}
+![Prototype](./res/acad.png){width=30%}
 
 ## STM32 conseil
 
