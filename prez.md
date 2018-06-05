@@ -221,9 +221,8 @@ De grandes possibilités d'interactions avec l'environnement.
 * aborder des notions de mathématiques du programme de BAC Pro
 
 ## Micro:Bit 
-### Comment ?
 
-<video data-autoplay src="./res/makecode.mp4" width="50%"></video>
+<video loop data-autoplay src="./res/makecode.mp4" width="75%"></video>
 
 
 * interface en ligne [https://makecode.microbit.org/](https://makecode.microbit.org/)
@@ -265,8 +264,9 @@ Partenariat avec l'académie d'Aix-Marseille :
 
 2017/2018 : 1ère phase de test en cours sur un prototype. 
 
-![Prototype](./res/stm32.png){width=40%}
-![Prototype](./res/acad.png){width=30%}
+![Prototype](./res/stm03.jpg){width=40%}
+![Prototype](./res/stm02.jpg){width=40%}
+![Prototype](./res/acad.png){width=10%}
 
 ## STM32 conseil
 
