@@ -230,15 +230,17 @@ De grandes possibilités d'interactions avec l'environnement.
 * simulateur
 
 
-## Micro:Bit 
+## Micro:Bit {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
 ### Comment ?
 
-<video data-autoplay src="./res/mu.mp4" width="50%"></video>
 
-
-* interface en local *mu*
-* programmation par Python
-* grapheur
+<aside class="notes">
+<ul>
+<li>interface en local *mu*
+<li>programmation par Python
+<li>grapheur
+</ul>
+</aside>
 
 
 ## STMicroelectronics
