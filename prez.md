@@ -243,6 +243,12 @@ De grandes possibilités d'interactions avec l'environnement.
 </aside>
 
 
+## Micro:Bit
+### Diffusion
+
+<iframe data-src="http://microbit.readthedocs.io/fr/latest/" width="100%" height="450px"></iframe>
+
+
 ## STMicroelectronics
 
 STMicroelectronics est en train de développer sa
