@@ -288,6 +288,6 @@ Micro-contrôleur
 <h4>Formation</h4>
 Algorithme
 
-<h4> Lycée Professionnel.</h4>
+<h4> Lycée Professionnel </h4>
 </span>
 
