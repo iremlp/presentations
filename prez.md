@@ -236,8 +236,8 @@ De grandes possibilités d'interactions avec l'environnement.
 
 <aside class="notes">
 <ul>
-<li>interface en local *mu*
-<li>programmation par Python
+<li>interface en local *mu*</li>
+<li>programmation par Python</li>
 <li>grapheur
 </ul>
 </aside>
@@ -297,3 +297,9 @@ Algorithme
 <h4> Lycée Professionnel </h4>
 </span>
 
+<aside class="notes">
+<ul>
+<li>colloque de Lyon<li>
+<li> covoiturage</li>
+</ul>
+</aside>
