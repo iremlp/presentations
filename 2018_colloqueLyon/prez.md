@@ -135,11 +135,16 @@ entrées/sorties
 ## Petit quizz ! 
 
 
+<aside class="notes">
+<a href="https://create.kahoot.it/details/atelier-lyon-quizz-1/ff6a8b84-cf7e-405d-a58a-d898a7f3ee03">
+lien vers le Kahoot
+</a>
+</aside>
 
+Ouvrir la page [https://kahoot.it/](https://kahoot.it/)
 
-
+![](./res/fig-001.png)
  
-
 
 
 # Programmation par blocs
