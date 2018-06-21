@@ -9,9 +9,16 @@ par la [CII Collègue](http://www.univ-irem.fr/spip.php?article1410) dont la th�
 ## liens utiles
 
 * Activité **Quizz**  : [https://kahoot.it/](https://kahoot.it/)
+
 * Ressource **Programmation par blocs** : [http://makecode.microbit.org/](http://makecode.microbit.org/)
+
 * Activité **Pile ou face** (par blocs) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/pileface-bloc.html)
 * Activité **Dé 6 faces** (par blocs) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/de6faces-bloc.html)
+
 * Ressource **Programmation Python** (en ligne) : [http://python.microbit.org/v/1](http://python.microbit.org/v/1)
 * Ressource **Programmation Python** (hors ligne) : [https://codewith.mu/](https://codewith.mu/)
+
+* Activité **Pile ou face** (par Python) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/pileface-python.html)
+* Activité **Dé 6 faces** (par Python) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/de6faces-python.html)
+
 * Ressource **Page du colloque** : [cliquer ici](http://www.univ-iremal.fr/spip.php?article1410)
