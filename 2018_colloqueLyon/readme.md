@@ -3,7 +3,7 @@
 Voici le diaporama présenté lors du colloque organisé
 par la [CII Collègue](http://www.univ-irem.fr/spip.php?article1410) dont la thématique était :
 
-	Des mathématiques dans notre environnement
+**Des mathématiques dans notre environnement**.
 
 
 ## liens utiles
