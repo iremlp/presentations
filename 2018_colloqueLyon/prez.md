@@ -7,48 +7,144 @@ slideNumber: true
 showNotes: false
 ---
 
+
 # Présentations
-## Qui ?
-Pascal Padilla & Bruno Bourgine
-## Quoi ?
+
+
+## Animateurs d'atelier
+
+#### Qui ?
+Bruno Bourgine & Pascal Padilla
+
+#### Quoi ?
 Professeurs de Mathématiques et Sciences Physiques en Lycée Professionnel
-## Où ?
-Marseille
+
+#### Où ?
+IREM Marseille
 
 
-# Présentation du groupe
-
-## groupe InEFLP
-### Innovation Expérimentation et Formation en Lycée Professionnel
-
-* Innovation
-<h4 class="fragment fade-up">Formes scolaires innovantes</h4>
-* Expérimentation
-<h4 class="fragment fade-up">Micro-contrôleur</h4>
-* Formation
-<h4 class="fragment fade-up">Algorithme</h4>
+## Groupe InEFLP
 
 
-# Programmer des objets connectés pour faire des maths ?!
-## Comprendre les objets du quotidien
+Innovation
+
+#### Formes scolaires innovantes
+
+Expérimentation
+
+#### Micro-contrôleur
+
+Formation
+
+####Algorithme
+
+
+## À propos de cet atelier
+
+#### Programmer des objets connectés pour faire des maths.
+
+* Comprendre les objets de notre environnement.
+* Des objets pour mesurer et communiquer.
+* Des objets pour faire des maths.
+
+## Déroulement de cet atelier
+### (théorique)
+
+1. Découverte du Micro:bit
+2. La programmation par bloc
+3. La programmation en Python
+
+
+# Micro:Bit
+
+## 
+
+![](./res/mb.png){width=65%}
+
+<aside class="notes">
+<ul>
+<li>UMicro:bit est un microcontrôleur développé au Royaume-Unis.
+<li>Par ses caractéristiques techniques et ses interfaces pédagogiques,
+cet objet possède un fort potentiel pour l’enseignement de
+l’algorithmique.
+</ul>
+</aside>
+
+
+
 ##
 
-# Micro:Bit
-## C'est quoi ?
+![](./res/stg13.jpg){width=40%}
+![](./res/stg12.jpg){width=40%}
 
-Une carte à l'initiative de la BBC pour équiper tous les collégiens anglais.
-
-Un petit objet robuste programmable par un enfant de 10 ans
-
-De grandes possibilités d'interactions avec l'environnement.
-
-
-# Micro:Bit
-## Historique
-
+<aside class="notes">
+<ul>
+<li>Une carte à l'initiative de la BBC pour équiper
+tous les collégiens anglais.
+<li>Un petit objet robuste programmable par un enfant de 10 ans
+<li>De grandes possibilités d'interactions avec l'environnement.
+</ul>
+</aside>
 
 
-## Micro:Bit
+
+##
+
+![](./res/stg01.jpg){width=45%}
+![](./res/stg03.jpg){width=45%}
+
+<aside class="notes">
+La carte se programme
+<ul>
+<li>par bloc
+<li>en Python
+<li>en JavaScript
+</ul>
+</aside>
+
+
+
+## {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
+
+<aside class="notes">
+La carte se programme
+<ul>
+<li>par bloc
+<li>en Python
+<li>en JavaScript
+</ul>
+</aside>
+
+
+
+##
+
+![](./res/mb7.png){width=55%}
+![](./res/mb6.png){width=55%}
+
+<aside class="notes">
+La carte se programme
+<ul>
+<li>par bloc
+<li>en Python
+<li>en JavaScript
+</ul>
+</aside>
+
+
+## Petit quizz ! 
+
+
+
+
+
+ 
+
+
+
+# Programmation par blocs
+
+## Makecode
 
 <video loop data-autoplay src="./res/makecode.mp4" width="75%"></video>
 
@@ -59,6 +155,7 @@ De grandes possibilités d'interactions avec l'environnement.
 
 
 ## Micro:Bit {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
+
 ### Comment ?
 
 
@@ -72,6 +169,7 @@ De grandes possibilités d'interactions avec l'environnement.
 
 
 ## Micro:Bit
+
 ### Diffusion
 
 <iframe data-src="http://microbit.readthedocs.io/fr/latest/" width="100%" height="450px"></iframe>
@@ -79,6 +177,8 @@ De grandes possibilités d'interactions avec l'environnement.
 
 
 # Liens utiles
+
+## à noter
 
 * Programmation par blocs :
 	* ``microbit code``
@@ -112,108 +212,6 @@ De grandes possibilités d'interactions avec l'environnement.
 
 
 
-
-
-
-# Innovation <br> Formes scolaires
-
----
-{data-background-image="./res/boss2.jpg" data-background-size="contain" data-background-repeat="repeat"}
----
-
-## Moodle
-
-<h1 class="fragment fade-up">C'est quoi ?</h1>
-
-
-- plateforme d'apprentissage en ligne *LMS*
-- depuis 2002
-- équivalent à *Chamilo*, *Claroline*, *M@gistère*, *Dokeos*, *Wims*, etc.
-
-
-
-## Moodle
-
-
-<h1 class="fragment fade-up">Ça sert à quoi ?</h1>
-
-* **diffuser** du contenu
-* **suivre** l'activité des élèves
-* **récupérer** des productions
-* **automatiser** certaines tâches comme la notation ou le feedback
-
-
-## Moodle {data-background-color="#bb1111"}
-
-<h3 class="fragment fade-up"> Quoi de nouveau alors ?</h3>
-
-- intégration à l'ENT académique Atrium
-- parc informatique : PC & tablettes
-- accès à internet pour tous
-	* en classe
-	* hors classe
-
-
-## S'approprier Moodle
-
-<video data-autoplay src="./res/moodle.mp4" width="80%"></video>
-
-* prise en main depuis septembre 2017
-* création de ressources
-
-<aside class="notes">
-Ressources :
-<ul>
-<li>vidéos (cours, méthode ou TP sciences)</li>
-<li>exercices dont certains **automatisé avec GeoGebra**</li>
-</ul>
-</aside>
-
-
-## Analyser Moodle
-### Utile
-
-
-* point d'entré unique pour diffuser et suivre l'activité
-* élèves en activités, mobilisés, concentrés
-* évaluations formatives
-* intégration de médias variés
-* accès hors temps scolaire
-
-<aside class="notes">
-<ul>
-<li>outil info capte l'attention</li>
-<li>gamification avec les Badges</li>
-</ul>
-</aside>
-
-## Analyser Moodle
-### Utilisable
-
-* contraintes matérielles fortes
-	- parc informatique entièrement fonctionnel
-	- accès internet pour les élèves dans toutes les salles
-* chronophage en amont
-* outil riche et donc complexe
-
-
-## Diffuser Moodle
-###[http://url.univ-irem.fr/moodle](http://url.univ-irem.fr/moodle)
-
-<iframe data-src="https://iremlp.readthedocs.io/fr/latest/index.html" width="100%" height="450px"></iframe>
-
-
-## Moodle - Perspectives
-
-Intégration de nouveaux membres :
-
-* 2 enseignantes travaillant sur Chamilo
-	* réalisation et mutualisation de ressources (vidéos)
-	* recherche d'une structure, d'une organisation pertinente des activités/ressources
-* 1 enseignante travaillant sur les compétences
-	* moodle et les 5 compétences en maths/sciences
-* 2 enseignantes travaillant sur le travail par groupe
-	* articulation individus/numérique vs. groupes/îlots
 
 
 # Formation <br> Algorithmique
@@ -253,24 +251,6 @@ Intégration de nouveaux membres :
 ![](./res/stg31.jpg){width=45%}
 ![](./res/stg33.jpg){width=45%}
 
-
-##
-### De la programmation par blocs
-![](./res/stg01.jpg){width=45%}
-![](./res/stg03.jpg){width=45%}
-
-
-
-##
-### Des stagiaires perplexes
-![](./res/stg02.jpg){width=45%}
-![](./res/stg04.jpg){width=45%}
-
-##
-### Des objets connectés
-
-![](./res/stg13.jpg){width=40%}
-![](./res/stg12.jpg){width=40%}
 
 ##  {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
 
