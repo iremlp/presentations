@@ -1,13 +1,21 @@
-% Groupe InEFLP
-% Innovation Expérimentation et Formation en Lycée Professionnel
-% Thèmes de travail, année 2017/2018
+% Objets connectés 
+% en mathématiques, c’est possible ! 
+% Colloque de Lyon - juin 2018
 
 ---
 slideNumber: true
 showNotes: false
 ---
 
+# Liens utiles
 
+* Programmation par blocs :
+	* ``microbit code``
+	* (ou [https://makecode.microbit.org/](https://makecode.microbit.org/))
+
+* Programmation Python :
+	* en ligne : [https://create.withcode.uk/](https://create.withcode.uk/)
+	* hors ligne : 
 
 # Présentation du groupe
 
