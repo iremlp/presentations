@@ -178,6 +178,10 @@ Discussion :
 * simulateur
 
 
+## {data-background-video="./res/makecode-tuto.mp4" data-background-video-loop="true" data-background-size="contain"}
+
+
+
 ## Micro:Bit {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 ### Comment ?
