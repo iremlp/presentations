@@ -123,11 +123,11 @@ La carte se programme
 ![](./res/mb6.png){width=55%}
 
 <aside class="notes">
-La carte se programme
+entrées/sorties
 <ul>
-<li>par bloc
-<li>en Python
-<li>en JavaScript
+<li>bouton, broches,
+<li>en radio/bluetooth
+<li>en Javacompas, acceléromètre, température, luminosité
 </ul>
 </aside>
 
