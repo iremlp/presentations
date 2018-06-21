@@ -181,30 +181,28 @@ Discussion :
 ## {data-background-video="./res/makecode-tuto.mp4" data-background-video-loop="true" data-background-size="contain"}
 
 
-
-## Micro:Bit {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
-
-### Comment ?
+## Petit quizz ! 
 
 
 <aside class="notes">
-<ul>
-<li>interface en local *mu*
-<li>programmation par Python
-<li>grapheur
-</ul>
+<a href="https://create.kahoot.it/details/atelier-lyon-quizz-2/a1d7fe7e-3f7e-4837-b3e1-fd77dd71f3bc">
+lien vers le Kahoot
+</a>
 </aside>
 
+Ouvrir le lien utile **Quizz** de la page 
 
-## Micro:Bit
+### [http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
 
-### Diffusion
-
-<iframe data-src="http://microbit.readthedocs.io/fr/latest/" width="100%" height="450px"></iframe>
-
+[![](./res/n.qr.png)](http://url.univ-irem.fr/n)
 
 
 
+# Programmation Python
+
+##
+
+![](./res/prise_en_main_mu.gif){width=100%}
 
 
 
