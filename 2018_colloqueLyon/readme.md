@@ -25,3 +25,4 @@ par la [CII Coll√®gue](http://www.univ-irem.fr/spip.php?article1410) dont la th√
 
 ### Autre(s)
 * Ressource **Page du colloque** : [cliquer ici](http://www.univ-iremal.fr/spip.php?article1410)
+* Ressource **Publication Microbit** du groupe InEFLP : [http://url.univ-irem.fr/o](http://url.univ-irem.fr/o)

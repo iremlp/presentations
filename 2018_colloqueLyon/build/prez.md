@@ -240,10 +240,17 @@ Ouvrir le lien utile **Quizz** de la page
 
 
 
+# Activité de recherche
+
+## Problématique
+
+On utilise une boucle de *n* itérations pour
+allumer aléatoirement les diodes du Micro:bit.
+
+![](./res/recherche.gif){width=20%}
 
 
-
-
+#### Combien d'itérations sont nécessaires pour allumer toutes les diodes ?
 
 
 
