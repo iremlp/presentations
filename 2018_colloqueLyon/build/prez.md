@@ -141,10 +141,29 @@ lien vers le Kahoot
 </a>
 </aside>
 
-Ouvrir la page [https://kahoot.it/](https://kahoot.it/)
+Ouvrir le lien utile **Quizz** de la page 
 
-![](./res/fig-001.png)
+### [http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+
+[![](./res/n.qr.png)](http://url.univ-irem.fr/n)
  
+ 
+## À propos du tirage aléatoire
+
+Discussion :
+
+* quel intéret ?
+* quelle plus-value ? 
+
+<aside class="notes">
+<ul>
+<li>traitement rapide des résultats
+<li>modélisation par l'élève pour tendre vers des activités plus complexes
+<li>modélisation de situations complexes
+</ul>
+</aside>
+
+
 
 
 # Programmation par blocs
@@ -178,6 +197,33 @@ Ouvrir la page [https://kahoot.it/](https://kahoot.it/)
 ### Diffusion
 
 <iframe data-src="http://microbit.readthedocs.io/fr/latest/" width="100%" height="450px"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
