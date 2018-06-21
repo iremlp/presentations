@@ -183,7 +183,7 @@ Ouvrir la page [https://kahoot.it/](https://kahoot.it/)
 
 # Liens utiles
 
-## à noter
+## à noter 
 
 * Programmation par blocs :
 	* ``microbit code``
