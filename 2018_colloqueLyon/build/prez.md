@@ -178,8 +178,18 @@ Discussion :
 * simulateur
 
 
-## {data-background-video="./res/makecode-tuto.mp4" data-background-video-loop="true" data-background-size="contain"}
+## 
 
+
+<video loop data-autoplay src="./res/makecode-tuto.mp4" width="75%"></video>
+
+
+[http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+
+![](./res/n.qr.png){width=5%}
+
+ 
+ 
 
 ## Petit quizz ! 
 
@@ -205,192 +215,46 @@ Ouvrir le lien utile **Quizz** de la page
 ![](./res/prise_en_main_mu.gif){width=100%}
 
 
+[http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+
+![](./res/n.qr.png){width=5%}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Liens utiles
-
-## à noter 
-
-* Programmation par blocs :
-	* ``microbit code``
-	* (ou [https://makecode.microbit.org/](https://makecode.microbit.org/))
-
-* Programmation Python :
-	* en ligne : [https://create.withcode.uk/](https://create.withcode.uk/)
-	* hors ligne :
-
-# Présentation du groupe
-
----
-{data-background-image="./res/boss.jpg" data-background-size="contain" data-background-repeat="repeat"}
----
-
-## groupe InEFLP
-### Innovation Expérimentation et Formation en Lycée Professionnel
-
-*  8 enseignants PLP Maths/Sciences (2017/2018)
-
-
-## groupe InEFLP
-###Centres d'intérêts du groupe
-
-* Innovation
-<h4 class="fragment fade-up">Formes scolaires innovantes</h4>
-* Expérimentation
-<h4 class="fragment fade-up">Micro-contrôleur</h4>
-* Formation
-<h4 class="fragment fade-up">Algorithme</h4>
-
-
-
-
-
-# Formation <br> Algorithmique
-
----
-{data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
----
-
-## Stage Algo
-
----
-{data-background-image="./res/boss5.jpg" data-background-size="contain" }
----
-
-* Stage mis en place par les IEN MSPC
-* 2017-2018 :
-	* 3×2 journées pour les PLP MSPC
-	* 2×1 journée pour les PE enseignant en SEGPA
-* Public hétérogène
+## Petit quizz ! 
 
 
 <aside class="notes">
-<ul>
-<li>2016-2017 : formations (3PP, formateurs, PLP)</li>
-<li>hétérogène pour diverses raisons (niveaux, stages précédents…)</li>
-</ul>
+<a href="https://create.kahoot.it/details/atelier-colloque-lyon-quizz-3/39707329-6c08-42ec-900e-f30e772ecda5">
+lien vers le Kahoot
+</a>
 </aside>
 
+Ouvrir le lien utile **Quizz** de la page 
 
-##
-### Informatique branchée et débranchée
-![](./res/stg34.jpg){width=45%}
-![](./res/stg32.jpg){width=40%}
+### [http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
 
-##
-### Réflexion et travail par groupes
-![](./res/stg31.jpg){width=45%}
-![](./res/stg33.jpg){width=45%}
-
-
-##  {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
-
-<h1 class="fragment current-visible">Micro:bit</h1>
+[![](./res/n.qr.png)](http://url.univ-irem.fr/n)
 
 
 
-# Expérimentation <br> Micro-contrôleur {data-background-video="./res/galton2_2.mp4" data-background-video-loop="true" data-background-size="contain"}
-
-## Micro:Bit
-### C'est quoi ?
-
-Une carte à l'initiative de la BBC pour équiper tous les collégiens anglais.
-
-Un petit objet robuste programmable par un enfant de 10 ans
-
-De grandes possibilités d'interactions avec l'environnement.
 
 
-## Micro:Bit
-### Pour quoi faire ?
 
 
-* aborder la partie algorithmique du cycle4 (3ème Prépa-Pro)
-* initier les élèves à la programmation en AP
-* réaliser des projets incluant un objet  programmable
-* aborder des notions de mathématiques du programme de BAC Pro
-
-## Micro:Bit
-
-<video loop data-autoplay src="./res/makecode.mp4" width="75%"></video>
 
 
-* interface en ligne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* programmation par bloc ou en javascript
-* simulateur
 
 
-## Micro:Bit {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
-### Comment ?
 
 
-<aside class="notes">
-<ul>
-<li>interface en local *mu*</li>
-<li>programmation par Python</li>
-<li>grapheur
-</ul>
-</aside>
 
 
-## Micro:Bit
-### Diffusion
-
-<iframe data-src="http://microbit.readthedocs.io/fr/latest/" width="100%" height="450px"></iframe>
 
 
-## STMicroelectronics
-
-STMicroelectronics est en train de développer sa
-carte de prototypage pour l'éducation.
-
-![](./res/st.png){width=45%}
 
 
-<aside class="notes">
-<ul>
-<li>société d'origine France/Italie / commercialise des puces électroniques
- / un leader mondial du secteur de la prod. de semi-conducteurs</li>
-<li>Algo LP <=> objets connectés / mesures physiques / objets concrets<li>
-</ul>
-</aside>
-
-## STM32 Education
-
-Partenariat avec l'académie d'Aix-Marseille :
-*Promotion de l'électronique, du numérique et du codage*.
-
-2017/2018 : 1ère phase de test en cours sur un prototype.
-
-![Prototype](./res/stm03.jpg){width=40%}
-![Prototype](./res/stm02.jpg){width=40%}
-![Prototype](./res/acad.png){width=10%}
-
-## STM32 conseil
-
-![](./res/stm32makecode.png){width=100%}
 
 
 # Merci
