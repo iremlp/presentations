@@ -1,11 +1,82 @@
-% Objets connectés 
-% en mathématiques, c’est possible ! 
+% Objets connectés
+% en mathématiques, c’est possible !
 % Colloque de Lyon - juin 2018
 
 ---
 slideNumber: true
 showNotes: false
 ---
+
+# Présentations
+## Qui ?
+Pascal Padilla & Bruno Bourgine
+## Quoi ?
+Professeurs de Mathématiques et Sciences Physiques en Lycée Professionnel
+## Où ?
+Marseille
+
+
+# Présentation du groupe
+
+## groupe InEFLP
+### Innovation Expérimentation et Formation en Lycée Professionnel
+
+* Innovation
+<h4 class="fragment fade-up">Formes scolaires innovantes</h4>
+* Expérimentation
+<h4 class="fragment fade-up">Micro-contrôleur</h4>
+* Formation
+<h4 class="fragment fade-up">Algorithme</h4>
+
+
+# Programmer des objets connectés pour faire des maths ?!
+## Comprendre les objets du quotidien
+##
+
+# Micro:Bit
+## C'est quoi ?
+
+Une carte à l'initiative de la BBC pour équiper tous les collégiens anglais.
+
+Un petit objet robuste programmable par un enfant de 10 ans
+
+De grandes possibilités d'interactions avec l'environnement.
+
+
+# Micro:Bit
+## Historique
+
+
+
+## Micro:Bit
+
+<video loop data-autoplay src="./res/makecode.mp4" width="75%"></video>
+
+
+* interface en ligne [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* programmation par bloc ou en javascript
+* simulateur
+
+
+## Micro:Bit {data-background-video="./res/mu.mp4" data-background-video-loop="true" data-background-size="contain"}
+### Comment ?
+
+
+<aside class="notes">
+<ul>
+<li>interface en local *mu*
+<li>programmation par Python
+<li>grapheur
+</ul>
+</aside>
+
+
+## Micro:Bit
+### Diffusion
+
+<iframe data-src="http://microbit.readthedocs.io/fr/latest/" width="100%" height="450px"></iframe>
+
+
 
 # Liens utiles
 
@@ -15,7 +86,7 @@ showNotes: false
 
 * Programmation Python :
 	* en ligne : [https://create.withcode.uk/](https://create.withcode.uk/)
-	* hors ligne : 
+	* hors ligne :
 
 # Présentation du groupe
 
@@ -146,7 +217,7 @@ Intégration de nouveaux membres :
 
 
 # Formation <br> Algorithmique
- 
+
 ---
 {data-background-video="./res/boss.mp4" data-background-video-loop="true" data-background-size="contain"}
 ---
@@ -228,7 +299,7 @@ De grandes possibilités d'interactions avec l'environnement.
 * réaliser des projets incluant un objet  programmable
 * aborder des notions de mathématiques du programme de BAC Pro
 
-## Micro:Bit 
+## Micro:Bit
 
 <video loop data-autoplay src="./res/makecode.mp4" width="75%"></video>
 
@@ -278,7 +349,7 @@ carte de prototypage pour l'éducation.
 Partenariat avec l'académie d'Aix-Marseille :
 *Promotion de l'électronique, du numérique et du codage*.
 
-2017/2018 : 1ère phase de test en cours sur un prototype. 
+2017/2018 : 1ère phase de test en cours sur un prototype.
 
 ![Prototype](./res/stm03.jpg){width=40%}
 ![Prototype](./res/stm02.jpg){width=40%}
