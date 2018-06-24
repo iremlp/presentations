@@ -5,11 +5,17 @@ par la [CII Collègue](http://www.univ-irem.fr/spip.php?article1410) dont la th�
 
 **Des mathématiques dans notre environnement**.
 
+Atelier animé par :
+* **Bruno Bourgine**
+* **Pascal Padilla**
+
+pour le groupe InEFLP de l'IREM de Marseille.
 
 ## Liens utiles
 
 ### Diaporama
 * Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2018_colloqueLyon/build)
+* Ce diaporama a été réalisé avec le framework **Reveal.js** :  [https://revealjs.com](https://revealjs.com)
 
 ### Quizz
 * Activité **Quizz**  : [https://kahoot.it/](https://kahoot.it/)
