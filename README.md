@@ -14,6 +14,6 @@ Vous trouverez ici nos présentations en ligne.
 Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 [Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
-![](./res/logo-irem.jpg){width=200px}
+![](./res/logo-irem.jpg | width=200px}
 
-![](./res/amu.png){width=200px}
+![](./res/amu.png | width=30%}
