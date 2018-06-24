@@ -34,5 +34,4 @@ pour le groupe InEFLP de l'IREM de Marseille.
 ### Autre(s)
 * Ressource **Page du colloque** : [cliquer ici](http://www.univ-iremal.fr/spip.php?article1410)
 * Ressource **Publication Microbit** du groupe InEFLP : [http://url.univ-irem.fr/o](http://url.univ-irem.fr/o)
-
 * Le diaporama a été réalisé avec le framework **Reveal.js** :  [https://revealjs.com](https://revealjs.com)
