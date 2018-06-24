@@ -8,8 +8,8 @@ par la [CII Collègue](http://www.univ-irem.fr/spip.php?article1410) dont la th�
 
 ## Liens utiles
 
-### Diaporama de l'atelier
-* Ressource en ligne : [cliquer ici](https://iremlp.github.io/presentations/2018_colloqueLyon/build)
+### Diaporama
+* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2018_colloqueLyon/build)
 
 ### Quizz
 * Activité **Quizz**  : [https://kahoot.it/](https://kahoot.it/)
