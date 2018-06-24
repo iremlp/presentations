@@ -8,9 +8,12 @@ en Lycée Professionnel** travaille sur les problématiques suivantes :
 
 Vous trouverez ici nos présentations en ligne.
 
+* [Présentation 06/2018 lors de l'AG de l'IREM](./2018_ag/)
+* [Atelier colloque de Lyon](./2018_colloqueLyon/)
+
 Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 [Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
-![](./res/logo-irem.jpg){width=30%}
+![](./res/logo-irem.jpg){width=200px}
 
-![](./res/amu.png){width=30%}
+![](./res/amu.png){width=200px}
