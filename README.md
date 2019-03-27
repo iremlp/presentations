@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="./res/fig-logo-ineflp.png" width="30%"></div>
+<div style="text-align:center"><img src="./res/fig-logo-ineflp.png" width="50%"></div>
 
 Nous sommes des enseignants de maths/sciences regroupés au sein
 d’un groupe de recherche de l”IREM de Marseille.
