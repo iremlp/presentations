@@ -1,6 +1,4 @@
-<div style="text-align:center">
-<img src="./res/fig-logo-ineflp.png" width="30%">
-</div>
+<div style="text-align:center"><img src="./res/fig-logo-ineflp.png" width="30%"></div>
 
 Nous sommes des enseignants de maths/sciences regroupés au sein
 d’un groupe de recherche de l”IREM de Marseille.
@@ -18,6 +16,26 @@ Vous trouverez ici nos présentations en ligne.
 Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 [Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
-<img src="./res/logo-irem.jpg" width="30%">
+<img src="./res/logo-irem.jpg" width="20%">
 
-<img src="./res/amu.png" width="30%">
+<img src="./res/amu.png" width="20%">
+
+|Membres du groupe pour l'année 2018/2019 :|
+--------------------------------------------
+| Amourette	Sylvie |
+| Aubert	Barbara |
+| Bocheron	Jean-Philippe |
+Bourgine	Bruno 
+Duchesne	Stéphanie 
+Ferrero	Sylvain 
+Foureson	Fabienne 
+Franchet	Lionel 
+Grimal	François 
+Mestas	Frank
+Mezard	Christophe 
+Padilla	Pascal 
+Petrovich	Doris 
+Poussou	Jérome 
+Rakotobe	Arilanto
+Roussel	Didier 
+Simao	Stéphanie 
