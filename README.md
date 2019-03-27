@@ -20,7 +20,7 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 <img src="./res/amu.png" width="20%">
 
-|Membres (année 2018-19)|
+|Membres (2018-19)            |
 |-----------------------------|
 | Amourette	Sylvie            |
 | Aubert	Barbara             |
