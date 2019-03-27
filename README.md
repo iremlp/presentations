@@ -16,6 +16,8 @@ Vous trouverez ici nos présentations en ligne.
 Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 [Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
+<div style="text-align:center">
+  
 <img src="./res/logo-irem.jpg" width="20%">
 
 <img src="./res/amu.png" width="20%">
@@ -39,3 +41,5 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 | Rakotobe	Arilanto          |
 | Roussel	Didier              |
 | Simao	Stéphanie             |
+
+</div>
