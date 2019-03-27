@@ -21,22 +21,21 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 <img src="./res/amu.png" width="20%">
 
 |Membres du groupe pour l'année 2018/2019|
-|--------------------------------------------|
-| Amourette	Sylvie |
-| Aubert	Barbara |
-| Bocheron	Jean-Philippe |
-
-Bourgine	Bruno 
-Duchesne	Stéphanie 
-Ferrero	Sylvain 
-Foureson	Fabienne 
-Franchet	Lionel 
-Grimal	François 
-Mestas	Frank
-Mezard	Christophe 
-Padilla	Pascal 
-Petrovich	Doris 
-Poussou	Jérome 
-Rakotobe	Arilanto
-Roussel	Didier 
-Simao	Stéphanie 
+|-----------------------------|
+| Amourette	Sylvie            |
+| Aubert	Barbara             |
+| Bocheron	Jean-Philippe     |
+| Bourgine	Bruno             |
+| Duchesne	Stéphanie         |
+| Ferrero	Sylvain             |
+| Foureson	Fabienne          |
+| Franchet	Lionel            |
+| Grimal	François            |
+| Mestas	Frank               |
+| Mezard	Christophe          |
+| Padilla	Pascal              |
+| Petrovich	Doris             |
+| Poussou	Jérome              |
+| Rakotobe	Arilanto          |
+| Roussel	Didier              |
+| Simao	Stéphanie             |
