@@ -8,14 +8,15 @@ en Lycée Professionnel** travaille sur les problématiques suivantes :
 * enseignement innovant
 * enseignement de l'algorithme en lycée professionnel
 
+Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
+[Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
+
 **Présentations et articles en lignes**
 
 * 2018 [Présentation 06/2018 lors de l'AG de fin d'année de l'IREM](./2018_ag/)
 * 2018 [Atelier colloque de Lyon](./2018_colloqueLyon/)
 * 2017 [Article descriptif de Micro:bit](http://url.univ-irem.fr/ineflp-microbit)
 
-Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
-[Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
 
 **Liens utiles**
