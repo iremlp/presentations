@@ -8,7 +8,7 @@ en Lycée Professionnel** travaille sur les problématiques suivantes :
 * enseignement innovant
 * enseignement de l'algorithme en lycée professionnel
 
-Vous trouverez ici nos présentations en ligne.
+**Présentations et articles en lignes**
 
 * 2018 [Présentation 06/2018 lors de l'AG de fin d'année de l'IREM](./2018_ag/)
 * 2018 [Atelier colloque de Lyon](./2018_colloqueLyon/)
