@@ -17,6 +17,14 @@ Vous trouverez ici nos présentations en ligne.
 Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 [Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
+
+**Liens utiles**
+
+* [Site académique de l'IREM d'Aix-Marseille](http://url.univ-irem.fr/mars)
+* [Portail des IREM](http://www.univ-irem.fr/)
+* [Site AMU du groupe InEFLP](https://irem.univ-amu.fr/fr/groupes-travail/groupe-travail-innovation-experimentation-formation-lp)
+
+
 <div style="text-align:center">
 <img src="./res/logo-irem.jpg" width="20%">
 
