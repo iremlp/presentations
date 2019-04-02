@@ -12,7 +12,7 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 ## Liens utiles
 
 ### Diaporama
-* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2018_colloqueLyon/build)
+* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2019_journeeInfo/build/)
 
 ### Quizz
 * Activité **Quizz**  : [https://kahoot.it/](https://kahoot.it/)

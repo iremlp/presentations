@@ -203,7 +203,7 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-### [http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)
+**[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)**
 
 [![](./res/n.qr.png)](http://url.univ-irem.fr/B)
 
