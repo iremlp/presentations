@@ -20,11 +20,11 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 
 ### Blocs
 * Ressource **Programmation par blocs** : [http://makecode.microbit.org/](http://makecode.microbit.org/)
-* Activité **Pile ou face** (par blocs) : [cliquer ici](https://drive.google.com/drive/u/0/folders/12dBkHnadFtU-SBAZXoZv9vTBCwxcV3GX)
-* Activité **Dé 6 faces** (par blocs) : [cliquer ici](https://drive.google.com/drive/u/0/folders/12dBkHnadFtU-SBAZXoZv9vTBCwxcV3GX)
+* Activité **Pile ou face** (par blocs) : [cliquer ici](https://drive.google.com/file/d/1I26hvWDNMdSsOEUdp__-HuPW6REQ2eQX/view?usp=sharing)
+* Activité **Dé 6 faces** (par blocs) : [cliquer ici](https://drive.google.com/file/d/1RaFdxhKV4TugNoISMbB2idE4zbOXrvk0/view?usp=sharing)
 
 ### Python
-* Ressource **Programmation Python** (en ligne) : [http://python.microbit.org/v/1](http://python.microbit.org/v/1)
+* Ressource **Programmation Python** (en ligne) : [https://python.microbit.org](https://python.microbit.org)
 * Ressource **Page de téléchargement** programmation Python (hors ligne) : [https://codewith.mu/en/download](https://codewith.mu/en/download)
 * Activité **Pile ou face** (par Python) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/pileface-python.html)
 * Activité **Dé 6 faces** (par Python) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/de6faces-python.html)
