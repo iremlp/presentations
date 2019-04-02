@@ -1,4 +1,4 @@
-% Groupe InEFLPs
+% Groupe InEFLP
 % Innovation Expérimentation et Formation en Lycée Professionnel
 % Thèmes de travail, année 2017/2018
 

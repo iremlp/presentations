@@ -20,8 +20,8 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 
 ### Blocs
 * Ressource **Programmation par blocs** : [http://makecode.microbit.org/](http://makecode.microbit.org/)
-* Activité **Pile ou face** (par blocs) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/pileface-bloc.html)
-* Activité **Dé 6 faces** (par blocs) : [cliquer ici](http://microbit.readthedocs.io/fr/latest/decouverte/de6faces-bloc.html)
+* Activité **Pile ou face** (par blocs) : [cliquer ici](https://drive.google.com/drive/u/0/folders/12dBkHnadFtU-SBAZXoZv9vTBCwxcV3GX)
+* Activité **Dé 6 faces** (par blocs) : [cliquer ici](https://drive.google.com/drive/u/0/folders/12dBkHnadFtU-SBAZXoZv9vTBCwxcV3GX)
 
 ### Python
 * Ressource **Programmation Python** (en ligne) : [http://python.microbit.org/v/1](http://python.microbit.org/v/1)

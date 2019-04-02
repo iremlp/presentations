@@ -1,8 +1,7 @@
 % Objets connectés
 % du matériel pour programmer !
-%
-% 4e journée sur l'enseignement de l'informatique
-% avril 2019
+% <br>4e journée l'enseignement de l'informatique<br>avril 2019
+
 
 ---
 slideNumber: true
@@ -145,9 +144,9 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-### [http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
-
-[![](./res/n.qr.png)](http://url.univ-irem.fr/n)
+**[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)**
+ 
+[![](./res/n.qr.png)](http://url.univ-irem.fr/B)
  
  
 ## À propos du tirage aléatoire
@@ -186,7 +185,7 @@ Discussion :
 <video loop data-autoplay src="./res/makecode-tuto.mp4" width="75%"></video>
 
 
-[http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+**[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)**
 
 ![](./res/n.qr.png){width=5%}
 
@@ -204,9 +203,9 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-### [http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+### [http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)
 
-[![](./res/n.qr.png)](http://url.univ-irem.fr/n)
+[![](./res/n.qr.png)](http://url.univ-irem.fr/B)
 
 
 
@@ -217,7 +216,7 @@ Ouvrir le lien utile **Quizz** de la page
 ![](./res/prise_en_main_mu.gif){width=100%}
 
 
-[http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)
 
 ![](./res/n.qr.png){width=5%}
 
@@ -235,9 +234,9 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-### [http://url.univ-irem.fr/n/](http://url.univ-irem.fr/n)
+### [http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)
 
-[![](./res/n.qr.png)](http://url.univ-irem.fr/n)
+[![](./res/n.qr.png)](http://url.univ-irem.fr/B)
 
 
 
