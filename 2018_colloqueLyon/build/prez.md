@@ -2,6 +2,7 @@
 % en mathématiques, c’est possible !
 % Colloque de Lyon - juin 2018
 
+
 ---
 slideNumber: true
 showNotes: false

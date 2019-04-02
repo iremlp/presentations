@@ -1,6 +1,8 @@
 % Objets connectés
-% en mathématiques, c’est possible !
-% Colloque de Lyon - juin 2018
+% du matériel pour programmer !
+%
+% 4e journée sur l'enseignement de l'informatique
+% avril 2019
 
 ---
 slideNumber: true
