@@ -1,5 +1,28 @@
 # Atelier colloque de Lyon 
 
+### Résumé
+
+*Programmer des objets connectés en mathématiques, c’est possible !*
+
+L’internet des objets est désormais une réalité. Notre environnement quotidien change et devient connecté.
+Cette poussée technophile a son pendant pédagogique : un objet programmable qui nous vient d’Angleterre.
+Commercialisée à moins de 20€, la carte **Micro:bit** se révèle simple à prendre en main mais surtout elle
+est réellement simple à utiliser en classe.
+
+Accompagné de multiples interfaces de programmations (blocs, python, javascript, etc.) et de simulateurs,
+Micro:bit sera utile aussi bien pour découvrir l'algorithmique que pour une transition vers le langage Python
+ou encore pour des projets plus ambitieux.
+
+Dans cet atelier, nous présenterons cet objet programmable utilisable en classe de mathématiques.
+Dans un premier temps, nous proposerons une découverte de cet *ordinateur* et ses possibilités au travers
+d'activités conçues pour des élèves du secondaire.
+Ensuite nous programmerons ces cartes :
+* au moyen de la programmation par bloc,
+* par de la programmation en Python. 
+
+
+### À propos de cet atelier
+
 Voici le diaporama présenté lors du colloque organisé
 par la [CII Collègue](http://www.univ-irem.fr/spip.php?article1410) dont la thématique était :
 
