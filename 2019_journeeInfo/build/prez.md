@@ -231,6 +231,21 @@ display.show("World!")
 ```
 
 
+## Terminal et sortie graphique
+
+```python
+from microbit import *
+import random
+nb1 = 0
+total = 0
+for i in range(1000):
+    tirage = random.randint(0,1)
+    total = total + 1
+    nb1 = nb1 + tirage
+    nb0 = total - nb1
+    print((i, nb1/total, nb0/total))
+```
+
 ## Des images
 
 ```python
