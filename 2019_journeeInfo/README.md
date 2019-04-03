@@ -4,6 +4,8 @@
 
 ### Résumé
 
+**Programmer des objets connectés en mathématiques, c’est possible !**
+
 L’internet des objets est désormais une réalité. Notre environnement quotidien change et devient connecté.
 Cette poussée technophile a son pendant pédagogique : un objet programmable qui nous vient d’Angleterre.
 Commercialisée à moins de 20€, la carte **Micro:bit** se révèle simple à prendre en main mais surtout elle
