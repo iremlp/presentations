@@ -1,6 +1,9 @@
 # Atelier présenté lors de la 4e journée académique sur l'enseignement de l'informatique, avril 2019
 
-*Résumé de l'atelier*
+## Présentation de l'atelier
+
+### Résumé
+
 L’internet des objets est désormais une réalité. Notre environnement quotidien change et devient connecté.
 Cette poussée technophile a son pendant pédagogique : un objet programmable qui nous vient d’Angleterre.
 Commercialisée à moins de 20€, la carte **Micro:bit** se révèle simple à prendre en main mais surtout elle
@@ -16,6 +19,8 @@ d'activités conçues pour des élèves du secondaire.
 Ensuite nous programmerons ces cartes :
 * au moyen de la programmation par bloc,
 * par de la programmation en Python. 
+
+### À propos de cet atelier
 
 Voici le diaporama présenté lors de la 4e journée informatique organisé par
 le groupe [Enseignement de l'informatique](https://irem.univ-amu.fr/fr/groupes-travail/groupe-enseignement-linformatique) de l'IREM de Marseille.
