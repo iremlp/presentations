@@ -222,6 +222,91 @@ Ouvrir le lien utile **Quizz** de la page
 
 
 
+## Afficher un texte
+
+```python
+from microbit import *
+display.scroll("Hello,")
+display.show("World!")
+```
+
+
+## Des images
+
+```python
+from microbit import *
+display.show(Image.HAPPY)
+sleep(1000)
+display.show(Image.ANGRY)
+sleep(1000)
+display.clear()
+```
+
+
+## Les boutons
+
+```python
+from microbit import *
+sleep(10000)
+display.scroll(str(button_a.get_presses()))
+```
+
+
+## Le mouvement
+
+```python
+from microbit import *
+while True:
+	capteur = accelerometer.get_x()
+	if capteur > 40:
+		display.show(Image.ARROW_E)
+	elif capteur < -40:
+		display.show(Image.ARROW_W)
+	else:
+		display.show("-")
+```
+
+
+## Les gestes
+
+```python
+from microbit import *
+import random
+button_b.was_pressed()
+while True:
+    display.show("8")
+    if accelerometer.was_gesture("shake"):
+        display.clear()
+        sleep(1000)
+        display.scroll(random.choice(["Oui","Non"]))
+    if button_b.was_pressed():
+    	display.clear()
+        break
+```
+
+
+## La radio
+
+```python
+from microbit import *
+import radio
+import random
+while True:
+    if button_a.was_pressed():
+        radio.send("A")
+    if button_b.was_pressed():
+        radio.send("B")
+    # récepteur
+    incomming = radio.receive()
+    if incomming == "A":
+        display.scroll("A")
+    if incomming == "B":
+        display.scroll("B")
+    sleep(20)
+
+```
+
+
 
 ## Petit quizz ! 
 
