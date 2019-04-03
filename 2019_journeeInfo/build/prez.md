@@ -137,7 +137,7 @@ entrées/sorties
 
 
 <aside class="notes">
-<a href="https://create.kahoot.it/details/atelier-lyon-quizz-1/ff6a8b84-cf7e-405d-a58a-d898a7f3ee03">
+<a href="https://create.kahoot.it/share/atelier-micro-bit-quizz-1/ff6a8b84-cf7e-405d-a58a-d898a7f3ee03">
 lien vers le Kahoot
 </a>
 </aside>
@@ -196,7 +196,7 @@ Discussion :
 
 
 <aside class="notes">
-<a href="https://create.kahoot.it/details/atelier-lyon-quizz-2/a1d7fe7e-3f7e-4837-b3e1-fd77dd71f3bc">
+<a href="https://create.kahoot.it/share/atelier-micro-bit-quizz-2/a1d7fe7e-3f7e-4837-b3e1-fd77dd71f3bc">
 lien vers le Kahoot
 </a>
 </aside>
@@ -327,7 +327,7 @@ while True:
 
 
 <aside class="notes">
-<a href="https://create.kahoot.it/details/atelier-colloque-lyon-quizz-3/39707329-6c08-42ec-900e-f30e772ecda5">
+<a href="https://create.kahoot.it/share/atelier-micro-bit-quizz-3/5fd65425-a0e9-4182-8b09-8359a4504c3e">
 lien vers le Kahoot
 </a>
 </aside>
