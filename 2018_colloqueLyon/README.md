@@ -37,6 +37,7 @@ pour le groupe InEFLP de l'IREM de Marseille.
 ## Liens utiles
 
 ### Diaporama
+* Diaporama imprimable PDF : [cliquer ici](build/res/diapo.pdf)
 * Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2018_colloqueLyon/build)
 
 ### Quizz
