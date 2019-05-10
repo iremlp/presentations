@@ -133,7 +133,7 @@ entrées/sorties
 </aside>
 
 
-## Petit quizz ! 
+## Petit quizz !
 
 
 <aside class="notes">
