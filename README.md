@@ -13,6 +13,7 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 **Présentations et articles en lignes**
 
+* 2019 [Présentation 05/2019 lors du colloque de Besançon, 50 ans des IREM](./2019_besancon/)
 * 2019 [Présentation 04/2019 lors de la 4e journée académique sur l'enseignement de l'informatique](./2019_journeeInfo/)
 * 2018 [Présentation 06/2018 lors de l'AG de fin d'année de l'IREM](./2018_ag/)
 * 2018 [Atelier colloque de Lyon](./2018_colloqueLyon/)
