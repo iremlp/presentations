@@ -144,9 +144,9 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-**[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)**
+**[http://url.univ-irem.fr/C/](http://url.univ-irem.fr/C)**
  
-[![](./res/n.qr.png)](http://url.univ-irem.fr/B)
+[![](./res/n.qr.png)](http://url.univ-irem.fr/C)
  
  
 ## À propos du tirage aléatoire
@@ -185,7 +185,7 @@ Discussion :
 <video loop data-autoplay src="./res/makecode-tuto.mp4" width="75%"></video>
 
 
-**[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)**
+**[http://url.univ-irem.fr/C/](http://url.univ-irem.fr/C)**
 
 ![](./res/n.qr.png){width=5%}
 
@@ -203,9 +203,9 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-**[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)**
+**[http://url.univ-irem.fr/C/](http://url.univ-irem.fr/C)**
 
-[![](./res/n.qr.png)](http://url.univ-irem.fr/B)
+[![](./res/n.qr.png)](http://url.univ-irem.fr/C)
 
 
 
@@ -216,7 +216,7 @@ Ouvrir le lien utile **Quizz** de la page
 ![](./res/prise_en_main_mu.gif){width=100%}
 
 
-[http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)
+[http://url.univ-irem.fr/C/](http://url.univ-irem.fr/C)
 
 ![](./res/n.qr.png){width=5%}
 
@@ -334,9 +334,9 @@ lien vers le Kahoot
 
 Ouvrir le lien utile **Quizz** de la page 
 
-### [http://url.univ-irem.fr/B/](http://url.univ-irem.fr/B)
+### [http://url.univ-irem.fr/C/](http://url.univ-irem.fr/C)
 
-[![](./res/n.qr.png)](http://url.univ-irem.fr/B)
+[![](./res/n.qr.png)](http://url.univ-irem.fr/C)
 
 
 
