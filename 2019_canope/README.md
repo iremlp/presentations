@@ -24,6 +24,8 @@ Ensuite nous programmerons ces cartes :
 * au moyen de la programmation par bloc,
 * par de la programmation en Python. 
 
+
+
 ### À propos de cet atelier
 
 
