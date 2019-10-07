@@ -1,5 +1,6 @@
-% TOTOLes objets connectés pour l’apprentissage de la programmation
-% <br>Barcamp Code<br> Une journée autour de la programmation
+% Les objets connectés 
+% pour l'apprentissage de la programmation
+% <br>Barcamp Code<br>
 
 
 ---
@@ -185,11 +186,11 @@ Discussion :
 
 
 <aside class="notes">
-
 Pour le Kahoot, ne pas oublier :
-* 17 ans d'ancienneté !
-* bloc aléa : "choisir au hasard"
-
+<ul>
+<li> 17 ans d'ancienneté !
+<li> bloc aléa : "choisir au hasard"
+</ul>
 </aside>
 
 
@@ -246,12 +247,13 @@ from microbit import *
 import random
 nb1 = 0
 total = 0
-for i in range(1000):
+for i in range(100):
     tirage = random.randint(0,1)
     total = total + 1
     nb1 = nb1 + tirage
     nb0 = total - nb1
-    print((i, nb1/total, nb0/total))
+    print((nb1/total, nb0/total))
+    sleep(5)
 ```
 
 ## Des images

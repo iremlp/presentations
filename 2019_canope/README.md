@@ -62,6 +62,7 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 * Ressource **Page de téléchargement** programmation Python (hors ligne) : [https://codewith.mu/en/download](https://codewith.mu/en/download){:target="_blank" }
 * Activité **Commandes de base pour Micro:bit et Python** : [cliquer ici](https://drive.google.com/file/d/13gZ1A4mo9YpgeW8Jf0wcdxZfohnQ8Je4/view?usp=sharing){:target="_blank" }
 * Activité **Pile ou face communiquant** (avec Python) : [cliquer ici](https://drive.google.com/file/d/1wspRv0KypXVF9KvfRdfdCMM6NtaI07Mb/view?usp=sharing){:target="_blank" }
+* **Documentation** BBC Microbit / MicroPython : [cliquer ici](https://microbit-micropython.readthedocs.io/fr/latest/){:target="_blank" }
 
 ### Autre(s)
 * Page du groupe InEFLP : [cliquer ici](http://url.univ-irem.fr/ineflp){:target="_blank" }
