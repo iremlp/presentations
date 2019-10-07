@@ -1,6 +1,6 @@
 % Les objets connectés 
 % <br>Barcamp Code<br>
-% ![Barcamp Code Day](https://www.reseau-canope.fr/fileadmin/user_upload/Academies-ateliers/DT_Provence-Alpes-Cote_d_Azur_PACA/Academie_Nice/Atelier_Canope_83_La_Garde/actualite_83/barcamp-actu.png)
+% ![Barcamp Code Day](./res/barcamp-actu.png)
 
 
 ---
