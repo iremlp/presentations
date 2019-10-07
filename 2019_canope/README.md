@@ -30,14 +30,11 @@ Ensuite nous programmerons ces cartes :
 
 
 
-Atelier créé par :
+Atelier créé et animé par :
 * **Bruno Bourgine**
 * **Pascal Padilla**
 
-Atelier animé par :
-* **Pascal Padilla**
-
-pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
+pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp){:target="_blank" } de l'IREM de Marseille.
 
 ## Liens utiles
 
