@@ -1,4 +1,4 @@
-% Les objets connectés pour l’apprentissage de la programmation
+% TOTOLes objets connectés pour l’apprentissage de la programmation
 % <br>Barcamp Code<br> Une journée autour de la programmation
 
 
