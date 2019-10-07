@@ -185,6 +185,15 @@ Discussion :
 <video loop data-autoplay src="./res/makecode-tuto.mp4" width="75%"></video>
 
 
+<aside class="notes">
+
+Pour le Kahoot, ne pas oublier :
+* 17 ans d'ancienneté !
+* bloc aléa : "choisir au hasard"
+
+</aside>
+
+
 **[http://url.univ-irem.fr/C/](http://url.univ-irem.fr/C)**
 
 ![](./res/n.qr.png){width=5%}
