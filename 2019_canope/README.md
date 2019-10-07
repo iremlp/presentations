@@ -25,6 +25,9 @@ Ensuite nous programmerons ces cartes :
 * par de la programmation en Python. 
 
 
+* Page Canopé du Barcamp Code : [cliquer ici](https://www.reseau-canope.fr/academie-aix-marseille/atelier-canope-13-marseille/actualites/article/barcamp-code-une-journee-autour-de-la-programmation.html){:target="_blank" }
+* Page Canopé de l'atelier : [cliquer ici](https://www.reseau-canope.fr/service/les-objets-connectes-pour-lapprentissage-de-la-programmation.html){:target="_blank" }
+
 
 ### À propos de cet atelier
 
@@ -38,8 +41,6 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp){:target="_blank" } de l'
 
 ## Liens utiles
 
-* Page Canopé du Barcamp Code : [cliquer ici](https://www.reseau-canope.fr/academie-aix-marseille/atelier-canope-13-marseille/actualites/article/barcamp-code-une-journee-autour-de-la-programmation.html){:target="_blank" }
-* Page Canopé de l'atelier : [cliquer ici](https://www.reseau-canope.fr/service/les-objets-connectes-pour-lapprentissage-de-la-programmation.html){:target="_blank" }
 
 ### Diaporama
 * Diaporama imprimable PDF : [cliquer ici](build/res/diapo.pdf){:target="_blank" }
@@ -63,6 +64,5 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp){:target="_blank" } de l'
 
 ### Autre(s)
 * Page du groupe InEFLP : [cliquer ici](http://url.univ-irem.fr/ineflp){:target="_blank" }
-* Ressource **Page de la 4e journée académique sur l'enseignement de l'informatique** : [cliquer ici](http://info-am.irem.univ-mrs.fr/programme/){:target="_blank" }
 * Page d'IREM de Marseille : [cliquer ici](https://irem.univ-amu.fr/){:target="_blank" }
 * Le diaporama a été réalisé avec le framework **Reveal.js** :  [https://revealjs.com](https://revealjs.com){:target="_blank" }
