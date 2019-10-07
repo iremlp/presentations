@@ -1,4 +1,4 @@
-# Présentation effecutée lors de la journée Barcamp Code de Canopé, Marseille
+# Barcamp Code de Canopé, Marseille
 
 ![Barcamp Code Day](https://www.reseau-canope.fr/fileadmin/user_upload/Academies-ateliers/DT_Provence-Alpes-Cote_d_Azur_PACA/Academie_Nice/Atelier_Canope_83_La_Garde/actualite_83/barcamp-actu.png)
 

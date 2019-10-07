@@ -1,5 +1,5 @@
-% Objets connectés
-% du matériel pour programmer !
+% Les objets connectés
+pour l’apprentissage de la programmation
 % <br>Barcamp Code<br> Une journée autour de la programmation
 
 
