@@ -1,10 +1,12 @@
-# Atelier présenté lors du colloque de Besancon, 50 ans des IREM, mai 2019
+# Présentation effecutée lors de la journée Barcamp Code de Canopé, Marseille
+
+![Barcamp Code Day](https://www.reseau-canope.fr/fileadmin/user_upload/Academies-ateliers/DT_Provence-Alpes-Cote_d_Azur_PACA/Academie_Nice/Atelier_Canope_83_La_Garde/actualite_83/barcamp-actu.png)
 
 ## Présentation de l'atelier
 
 ### Résumé
 
-*Programmer des objets connectés en mathématiques, c’est possible !*
+*Les objets connectés pour l’apprentissage de la programmation*
 
 L’internet des objets est désormais une réalité. Notre environnement quotidien change et devient connecté.
 Cette poussée technophile a son pendant pédagogique : un objet programmable qui nous vient d’Angleterre.
@@ -24,7 +26,7 @@ Ensuite nous programmerons ces cartes :
 
 ### À propos de cet atelier
 
-Voici le diaporama présenté à Besançon, lors du colloque des 50 ans des IREM.
+
 
 Atelier créé par :
 * **Bruno Bourgine**
@@ -36,6 +38,9 @@ Atelier animé par :
 pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 
 ## Liens utiles
+
+* Page Canopé du Barcamp Code : [cliquer ici](https://www.reseau-canope.fr/academie-aix-marseille/atelier-canope-13-marseille/actualites/article/barcamp-code-une-journee-autour-de-la-programmation.html)
+* Page Canopé de l'atelier : [cliquer ici](https://www.reseau-canope.fr/service/les-objets-connectes-pour-lapprentissage-de-la-programmation.html)
 
 ### Diaporama
 * Diaporama imprimable PDF : [cliquer ici](build/res/diapo.pdf)
