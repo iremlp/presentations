@@ -251,12 +251,13 @@ display.show(<span class="st">&quot;World!&quot;</span>)</code></pre></div>
 <span class="im">import</span> random
 nb1 <span class="op">=</span> <span class="dv">0</span>
 total <span class="op">=</span> <span class="dv">0</span>
-<span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">1000</span>):
+<span class="cf">for</span> i <span class="kw">in</span> <span class="bu">range</span>(<span class="dv">100</span>):
     tirage <span class="op">=</span> random.randint(<span class="dv">0</span>,<span class="dv">1</span>)
     total <span class="op">=</span> total <span class="op">+</span> <span class="dv">1</span>
     nb1 <span class="op">=</span> nb1 <span class="op">+</span> tirage
     nb0 <span class="op">=</span> total <span class="op">-</span> nb1
-    <span class="bu">print</span>((i, nb1<span class="op">/</span>total, nb0<span class="op">/</span>total))</code></pre></div>
+    <span class="bu">print</span>((nb1<span class="op">/</span>total, nb0<span class="op">/</span>total))
+    sleep(<span class="dv">5</span>)</code></pre></div>
 </section><section id="des-images" class="slide level2">
 <h2>Des images</h2>
 <div class="sourceCode"><pre class="sourceCode python"><code class="sourceCode python"><span class="im">from</span> microbit <span class="im">import</span> <span class="op">*</span>
