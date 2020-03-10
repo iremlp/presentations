@@ -59,7 +59,7 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 * Activité **Pile ou face communiquant** (avec Python) : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mbpy-pilecom.tex.pdf)
 
 ### Autre(s)
-* * Ressource **Prise en main de Classroom** : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-classroom.tex.pdf)
+* Ressource **Prise en main de Classroom** : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-classroom.tex.pdf)
 * Page du groupe InEFLP : [cliquer ici](http://url.univ-irem.fr/ineflp)
 * Page d'IREM de Marseille : [cliquer ici](https://irem.univ-amu.fr/)
 * Le diaporama a été réalisé avec le framework **Reveal.js** :  [https://revealjs.com](https://revealjs.com) et le logiciel **VSCodium** :  [https://vscodium.com](https://vscodium.com)
