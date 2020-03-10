@@ -39,7 +39,7 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 
 ### Diaporama
 * Diaporama imprimable PDF : [cliquer ici](build/res/diapo.pdf)
-* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2019_besancon/build/)
+* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/mathsNumMars/build/)
 
 ### Quizz
 * Activité **Quizz**  : [https://kahoot.it/](https://kahoot.it/)
