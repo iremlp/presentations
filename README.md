@@ -13,6 +13,7 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 **Présentations et articles en lignes**
 
+* 2020 [Présentation 03/2020 lors de la journée mathématiques et numériques](./2020_mathsNumMars)
 * 2019 [Barcamp Code 10/2019 Atelier Canopé](./2019_canope)
 * 2019 [Présentation 05/2019 lors du colloque de Besançon, 50 ans des IREM](./2019_besancon/)
 * 2019 [Présentation 04/2019 lors de la 4e journée académique sur l'enseignement de l'informatique](./2019_journeeInfo/)
