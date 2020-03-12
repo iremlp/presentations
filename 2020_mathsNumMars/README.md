@@ -1,3 +1,5 @@
+![](https://cache.media.eduscol.education.fr/image/CST/58/7/annee-maths_eduscol-1080x200px_1164587.jpg)
+
 # Atelier présenté lors de la journée Mathématiques & Numérique
 
 ## Présentation de l'atelier
@@ -24,7 +26,7 @@ Ensuite nous programmerons ces cartes :
 
 ### À propos de cet atelier
 
-Voici le diaporama présenté à Marseille, lors de la journée Mathématiques et Numérique du 11 mars 2020
+[Voici le diaporama présenté à Marseille, lors de la journée Mathématiques et Numérique du 11 mars 2020](https://iremlp.github.io/presentations/2020_mathsNumMars/build/)
 
 Atelier créé par :
 * **Bruno Bourgine**
@@ -41,16 +43,13 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 * Diaporama imprimable PDF : [cliquer ici](build/res/diapo.pdf)
 * Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2020_mathsNumMars/build/)
 
-### Quizz
-* Activité **Quizz**  : [https://kahoot.it/](https://kahoot.it/)
-
 
 ### Blocs
 * Ressource **Programmation par blocs** : [http://makecode.microbit.org/](http://makecode.microbit.org/)
-* Ressource **Les blocs principaux** : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb_makecode_blocsPrincipaux.tex.pdf)
-* Activité **Pile ou face** (par blocs) : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-pile.tex.pdf)
-* Activité **Dé 6 faces** (par blocs) : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-dede.tex.pdf)
-* Activité **Fluctuation d'échantillonnage** (par blocs) : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-fluctuation.tex.pdf)
+* Ressource **Les blocs principaux** : [Télécharger le pdf](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb_makecode_blocsPrincipaux.tex.pdf)
+* Activité **Pile ou face** (par blocs) : [Télécharger le pdf](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-pile.tex.pdf)
+* Activité **Dé 6 faces** (par blocs) : [Télécharger le pdf](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-dede.tex.pdf)
+* Activité **Fluctuation d'échantillonnage** (par blocs) : [Télécharger le pdf](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-fluctuation.tex.pdf)
 
 ### Python
 * Ressource **Programmation Python** (en ligne) : [https://python.microbit.org](https://python.microbit.org)
@@ -59,7 +58,7 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 * Activité **Pile ou face communiquant** (avec Python) : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mbpy-pilecom.tex.pdf)
 
 ### Autre(s)
-* Ressource **Prise en main de Classroom** : [cliquer ici](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-classroom.tex.pdf)
+* Ressource **Prise en main de Classroom** : [Télécharger le pdf](https://github.com/iremlp/brochure-IREM---microbit/raw/master/fiches/fiche_mb-classroom.tex.pdf)
 * Page du groupe InEFLP : [cliquer ici](http://url.univ-irem.fr/ineflp)
 * Page d'IREM de Marseille : [cliquer ici](https://irem.univ-amu.fr/)
 * Le diaporama a été réalisé avec le framework **Reveal.js** :  [https://revealjs.com](https://revealjs.com) et le logiciel **VSCodium** :  [https://vscodium.com](https://vscodium.com)
