@@ -22,6 +22,11 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 * 2017 [Article descriptif de Micro:bit](http://url.univ-irem.fr/ineflp-microbit)
 
 
+**Rapport d'activités**
+
+* 2018-19 [Rapport d'activité](./RAP_2019/)
+
+
 
 **Liens utiles**
 
@@ -39,19 +44,18 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 |Membres (2018-19)            |
 |-----------------------------|
 | Amourette	Sylvie            |
-| Aubert	Barbara             |
+| Aubert	Barbara           |
 | Bocheron	Jean-Philippe     |
 | Bourgine	Bruno             |
 | Duchesne	Stéphanie         |
-| Ferrero	Sylvain             |
+| Ferrero	Sylvain           |
 | Foureson	Fabienne          |
 | Franchet	Lionel            |
-| Grimal	François            |
-| Mestas	Frank               |
-| Mezard	Christophe          |
-| Padilla	Pascal              |
+| Grimal	François          |
+| Mestas	Frank             |
+| Mezard	Christophe        |
+| Padilla	Pascal            |
 | Petrovich	Doris             |
-| Poussou	Jérome              |
+| Poussou	Jérome            |
 | Rakotobe	Arilanto          |
-| Roussel	Didier              |
-| Simao	Stéphanie             |
+| Roussel	Didier            |
