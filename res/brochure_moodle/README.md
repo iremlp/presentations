@@ -49,13 +49,12 @@ La brochure possède deux annexes : l'une pour écrire les formules mathématiqu
 
 ## Qui sommes-nous?
 
-Nous sommes des enseignants de maths/sciences regroupés au sein d’un groupe de recherche de l'IREM de Marseille.
-
-
 
 Nous sommes des enseignants de maths/sciences regroupés au sein d’un groupe de recherche de l'IREM de Marseille.
 
-![](./res/fig-logo-ineflp.png)
+
+<div style="text-align:center"><img src="./res/fig-logo-ineflp.png" width="50%"></div>
+
 
 
 Notre groupe, Innovation, Expérimentation et Formation en Lycée Professionnel (InEFLP) consacre une partie de son travail à la recherche de nouvelles solutions pédagogiques en lycée professionnel. Dans le cadre de cette recherche, nous explorons les possibilités de la plateforme de travail à distance Moodle.
