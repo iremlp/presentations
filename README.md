@@ -11,6 +11,12 @@ en Lycée Professionnel** travaille sur les problématiques suivantes :
 Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 [Pascal Padilla](mailto://irem.p@dilla.fr?subject=ContactGithub)
 
+**Publications récentes**
+
+* [Brochure Moodle](http://url.univ-irem.fr/bro-moodle)
+* [Brochure Micro:bit](http://url.univ-irem.fr/bro-mb)
+* [Moodle et GeoGebra](http://url.univ-irem.fr/ggbMoodle )
+
 **Présentations et articles en lignes**
 
 * 2020 [Présentation 03/2020 lors de la journée mathématiques et numériques](./res/2020_mathsNumMars)
