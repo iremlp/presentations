@@ -13,7 +13,7 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 **Publications récentes**
 
-* [Brochure Moodle](http://url.univ-irem.fr/bro-moodle)
+* [Brochure Moodle](res/brochure_moodle/README.md)
 * [Brochure Micro:bit](http://url.univ-irem.fr/bro-mb)
 * [Moodle et GeoGebra](http://url.univ-irem.fr/ggbMoodle )
 
