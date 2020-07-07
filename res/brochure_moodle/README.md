@@ -5,6 +5,9 @@ Sur ce dépot, vous trouverez notre brochure **Moodle pour l'enseignant**.
 
 * [Brochure complète](./res/Moodle.pdf)
 
+[<div style="text-align:center"><img src="./res/couv.png" width="50%"></div>](./res/Moodle.pdf)
+
+
 
 # À propos de cette publication
 
