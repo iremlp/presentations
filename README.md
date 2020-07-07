@@ -24,7 +24,9 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 **Rapport d'activités**
 
+* 2019-20 [Rapport d'activité](./RAP_2020/)
 * 2018-19 [Rapport d'activité](./RAP_2019/)
+* 2017-18 [Rapport d'activité](./RAP_2018/)
 
 
 
