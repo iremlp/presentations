@@ -13,20 +13,20 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 **Présentations et articles en lignes**
 
-* 2020 [Présentation 03/2020 lors de la journée mathématiques et numériques](./2020_mathsNumMars)
-* 2019 [Barcamp Code 10/2019 Atelier Canopé](./2019_canope)
-* 2019 [Présentation 05/2019 lors du colloque de Besançon, 50 ans des IREM](./2019_besancon/)
-* 2019 [Présentation 04/2019 lors de la 4e journée académique sur l'enseignement de l'informatique](./2019_journeeInfo/)
-* 2018 [Présentation 06/2018 lors de l'AG de fin d'année de l'IREM](./2018_ag/)
-* 2018 [Atelier colloque de Lyon](./2018_colloqueLyon/)
+* 2020 [Présentation 03/2020 lors de la journée mathématiques et numériques](./res/2020_mathsNumMars)
+* 2019 [Barcamp Code 10/2019 Atelier Canopé](./res/2019_canope)
+* 2019 [Présentation 05/2019 lors du colloque de Besançon, 50 ans des IREM](./res/2019_besancon/)
+* 2019 [Présentation 04/2019 lors de la 4e journée académique sur l'enseignement de l'informatique](./res/2019_journeeInfo/)
+* 2018 [Présentation 06/2018 lors de l'AG de fin d'année de l'IREM](./res/2018_ag/)
+* 2018 [Atelier colloque de Lyon](./res/2018_colloqueLyon/)
 * 2017 [Article descriptif de Micro:bit](http://url.univ-irem.fr/ineflp-microbit)
 
 
 **Rapport d'activités**
 
-* 2019-20 [Rapport d'activité](./RAP_2020/)
-* 2018-19 [Rapport d'activité](./RAP_2019/)
-* 2017-18 [Rapport d'activité](./RAP_2018/)
+* 2019-20 [Rapport d'activité](./res/RAP_2020/)
+* 2018-19 [Rapport d'activité](./res/RAP_2019/)
+* 2017-18 [Rapport d'activité](./res/RAP_2018/)
 
 
 

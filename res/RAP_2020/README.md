@@ -87,7 +87,7 @@ Mercredi 11 mars 2020
 
 Dans le cadre de l'année des mathématiques, présentation académique sur le objets connectés.
 
-* https://github.com/iremlp/presentations/blob/master/2020_mathsNumMars
+* http://url.univ-irem.fr/ineflp-jnum
 
 
 

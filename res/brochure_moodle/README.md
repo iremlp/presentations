@@ -72,4 +72,3 @@ Notre groupe, Innovation, Expérimentation et Formation en Lycée Professionnel 
 * Portail des IREM] Site national des IREM
 </br>http://www.univ-irem.fr/
 
-![](source/res/fig-ineflp-qr.png)
