@@ -26,7 +26,7 @@ Ensuite nous programmerons ces cartes :
 
 ### À propos de cet atelier
 
-[Voici le diaporama présenté à Marseille, lors de la journée Mathématiques et Numérique du 11 mars 2020](https://iremlp.github.io/presentations/2020_mathsNumMars/build/)
+[Voici le diaporama présenté à Marseille, lors de la journée Mathématiques et Numérique du 11 mars 2020](https://iremlp.github.io/presentations/res/2020_mathsNumMars/build/)
 
 Atelier créé par :
 * **Bruno Bourgine**
@@ -41,7 +41,7 @@ pour le [groupe InEFLP](http://url.univ-irem.fr/ineflp) de l'IREM de Marseille.
 
 ### Diaporama
 * Diaporama imprimable PDF : [cliquer ici](build/res/diapo.pdf)
-* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/2020_mathsNumMars/build/)
+* Diaporama de l'atelier en ligne : [cliquer ici](https://iremlp.github.io/presentations/res/2020_mathsNumMars/build/)
 
 
 ### Blocs
