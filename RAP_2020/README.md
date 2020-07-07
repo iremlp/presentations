@@ -28,7 +28,7 @@ Responsable du groupe : Pascal Padilla
 
 
 
-## Travaux du groupe 2018-19
+## Travaux du groupe 2019-20
 
 ### Axe de travail - Algorithmique, Micro:bit et objets connectés
 
@@ -75,7 +75,7 @@ Responsable du groupe : Pascal Padilla
 
 Publication de la brochure Moodle.
 
-* 
+* http://url.univ-irem.fr/bro-moodle
 
 
 
