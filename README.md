@@ -1,6 +1,6 @@
 <div style="text-align:center"><img src="./res/fig-logo-ineflp.png" width="50%"></div>
 
-Nous somme(e)s des enseignants de maths/sciences regroupés au sein
+Nous sommes des enseignants de maths/sciences regroupés au sein
 d’un groupe de recherche de l”IREM de Marseille.
 Notre groupe de travail **Innovation, Expérimentation et Formation
 en Lycée Professionnel** travaille sur les problématiques suivantes :
