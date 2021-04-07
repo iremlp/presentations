@@ -19,7 +19,7 @@ Pour nous contacter, vous pouvez écrire au responsable actuel du groupe
 
 **Présentations et articles en lignes**
 
-* 2021 [Présentation 04/2021 lors de la 5e journée académique sur l'enseignement de l'informatique](./res/2021_journeeInfo/)
+* 2021 [Présentation 04/2021 lors de la 5e journée académique sur l'enseignement de l'informatique](./res/2021_journeeInfo/build)
 * 2020 [Présentation 03/2020 lors de la journée mathématiques et numériques](./res/2020_mathsNumMars)
 * 2019 [Barcamp Code 10/2019 Atelier Canopé](./res/2019_canope)
 * 2019 [Présentation 05/2019 lors du colloque de Besançon, 50 ans des IREM](./res/2019_besancon/)
