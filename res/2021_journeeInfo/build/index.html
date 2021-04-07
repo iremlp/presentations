@@ -1,0 +1,859 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Micro:Bit : Quels outils pour enseigner avec ?</title>
+
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <!-- REVEAL CSS-->
+  <link rel="stylesheet" href="libs/reveal.js/font-awesome-4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="libs/reveal.js/3.8.0/css/reveal.css">
+  
+  <link rel="stylesheet" href="libs/reveal.js/3.8.0/css/theme/moon.css" id="theme">
+  
+  
+  <link rel="stylesheet" href="libs/reveal.js/3.8.0/plugin/title-footer/title-footer-mod.css" />
+
+  <!-- MERMAID-->
+  <script src="libs/reveal.js/3.8.0/plugin/mermaid/mermaid.min.js"></script>
+  <style>
+  .mermaid {
+    font-size: 0.5em;
+  }
+  </style>
+
+  <style>
+    [class*=task-list-item] {
+    min-height: 22px;
+    margin-top: 6px!important;
+    margin-bottom: 6px!important;
+    padding-left: 0;
+    list-style: none;
+}
+
+[class*=task-list-item]>input:first-child {
+    position: absolute!important;
+    opacity: 0;
+    margin: 0;
+}
+[class*=task-list-item]>label {
+    padding-left: 29px!important;
+    min-height: 22px;
+    line-height: 22px;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    margin-bottom: 0;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.task-list-item>input:first-child:checked+input[type=hidden]+label::before, .task-list-item>input:first-child:checked+label::before {
+    background-color: #ecf0f1;
+    border-color: #ecf0f1;
+}
+
+[class*=task-list-item]>input:first-child+input[type=hidden]+label::before, [class*=task-list-item]>input:first-child+label::before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    border: 1px solid #D3CFC8;
+    border-radius: 0;
+    margin-left: -29px;
+}
+
+
+[class*=task-list-item]>input:first-child:checked+input[type=hidden]+label::after, [class*=task-list-item]>input:first-child:checked+label::after {
+    content: "";
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 7px;
+    height: 10px;
+    border: 2px solid #fff;
+    border-left: none;
+    border-top: none;
+    transform: translate(7.75px,4.5px) rotate(45deg);
+    -ms-transform: translate(7.75px,4.5px) rotate(45deg);
+}
+
+
+.task-list-item>input:first-child:checked+input[type=hidden]+label::after, .task-list-item>input:first-child:checked+label::after {
+    border-bottom-color: #95a5a6;
+    border-right-color: #95a5a6;
+}
+  </style>
+
+  <!-- Theme used for syntax highlighting of code -->
+  
+  <link rel="stylesheet" href="libs/highlight.js/9.15.10/monokai.css">
+  
+
+  
+  
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match(/print-pdf/gi) ? 'libs/reveal.js/3.8.0/css/print/pdf.css' : 'libs/reveal.js/3.8.0/css/print/paper.css';
+    document.getElementsByTagName('head')[0].appendChild(link);
+  </script>
+
+  <style>
+     .line {
+      display: block;
+    }
+    
+
+    .line.focus {
+      background: #fdf6e3;
+      color: #657b83;
+    }
+
+    .reveal .slides section .fragment.current-only {
+      visibility: visible;
+      display: none;
+    }
+
+    .reveal .slides section .fragment.current-only.current-fragment {
+      display: block;
+    }
+
+    .line.focus {
+       opacity: 1.0;
+    } 
+
+    @media (device-width: 100vw) and (device-height: 100vh) {
+      .reveal pre code {
+        max-height: 50vh !important;
+      }
+    }
+
+    #logo img {
+      max-height: 3.5em;
+      max-width: none;
+      min-width: 50px;
+    }
+
+    .reveal .slides section .code-presenting-annotation {
+      color: white;
+      background: black;
+      padding: 0px 15px;
+      border-radius: 15px;
+      opacity: 0.75 !important;
+      font-size: 50% !important;
+    }
+  </style>
+  <script>
+    if (window.location.search.match(/print-pdf-now/gi)) {
+      window.print();
+    }
+  </script>
+</head>
+
+<body>
+  
+<div id="logo" style="position: fixed; top: 20px; left: 20px; z-index: 1">
+    <img src="res/fig-logo-ineflp.png" />
+</div>
+
+
+  <div class="reveal">
+
+    <!-- Any section element inside of this container is displayed as a slide -->
+    <div class="slides">
+
+      
+
+
+    
+        <section >
+            
+            <p>Micro:Bit</p>
+<p>Quels outils pour enseigner avec ?</p>
+<p><img src="./res/microbit_V2.png" alt="" width="40%"></p>
+
+            </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h1><a id="user-content-présentations" class="anchor" href="#présentations" aria-hidden="true"></a>Présentations</h1>
+
+            </section>
+        
+            <section >
+                <h2><a id="user-content-animateurs-datelier" class="anchor" href="#animateurs-datelier" aria-hidden="true"></a>Animateurs d’atelier</h2>
+<h4><a id="user-content-qui-" class="anchor" href="#qui-" aria-hidden="true"></a>Qui ?</h4>
+<p>Bruno Bourgine</p>
+<h4><a id="user-content-quoi-" class="anchor" href="#quoi-" aria-hidden="true"></a>Quoi ?</h4>
+<p>Professeurs de Mathématiques et Sciences Physiques en Lycée Professionnel</p>
+<h4><a id="user-content-où-" class="anchor" href="#où-" aria-hidden="true"></a>Où ?</h4>
+<p>LP Mistral (Marseille 8e)</p>
+<p>IREM : groupes enseignement de l’informatique et innovation et expérimentation en LP</p>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+        <section >
+            
+            <h2><a id="user-content-déroulement-de-cet-atelier" class="anchor" href="#déroulement-de-cet-atelier" aria-hidden="true"></a>Déroulement de cet atelier</h2>
+<h3><a id="user-content-théorique" class="anchor" href="#théorique" aria-hidden="true"></a>(théorique)</h3>
+<ol>
+<li class="fragment fade-down">Est-ce qu’on présente l’engin ?</li>
+<li class="fragment fade-down">Faut-il simuler ?</li>
+<li class="fragment fade-down">Programmer en ligne où hors ligne ?</li>
+<li class="fragment fade-down">Programmer avec des blocs, du python ou les deux ?</li>
+<li class="fragment fade-down">Gérer le travail des élèves ?</li>
+</ol>
+
+            </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h2><a id="user-content-est-ce-quon-présente-lengin-" class="anchor" href="#est-ce-quon-présente-lengin-" aria-hidden="true"></a>Est-ce qu’on présente l’engin ?</h2>
+<h3><a id="user-content-oui-mais-succintement" class="anchor" href="#oui-mais-succintement" aria-hidden="true"></a>oui, mais succintement</h3>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-cartes-disponibles" class="anchor" href="#les-cartes-disponibles" aria-hidden="true"></a>Les cartes disponibles</h3>
+<p><img src="./res/comparison-front.png" alt="" width="60%"></p>
+<p><img src="./res/comparison-back.png" alt="" width="60%"></p>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-techniquement-parlant" class="anchor" href="#techniquement-parlant" aria-hidden="true"></a>Techniquement parlant</h3>
+<ul>
+<li>
+<p>processeur : 64 MHz Arm Cortex-M4 , 512 KB flash, 128 KB RAM</p>
+</li>
+<li>
+<p>fonctionnalités incluses : température, BLE, capteur accélération, capteur magnétique.</p>
+</li>
+<li>
+<p>extensions : très nombreuses (capteurs, robots)</p>
+</li>
+<li>
+<p>code : exécuter à partir d’un fichier .HEX ou directement en microPython</p>
+</li>
+</ul>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-champs-dapplications" class="anchor" href="#les-champs-dapplications" aria-hidden="true"></a>Les champs d’applications</h3>
+<ul>
+<li>
+<p>Public : du collège aux lycées (général, technique, professionnel)</p>
+</li>
+<li>
+<p>Disciplines : informatique, mathématiques, technologie, sciences-physiques, svt …</p>
+</li>
+</ul>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-pléthores-" class="anchor" href="#pléthores-" aria-hidden="true"></a>Pléthores …</h3>
+<ul>
+<li>de ressources pédagogiques</li>
+<li>de projets</li>
+<li>d’interfaces de programmations</li>
+</ul>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h2><a id="user-content-faut-il-simuler-" class="anchor" href="#faut-il-simuler-" aria-hidden="true"></a>Faut-il simuler ?</h2>
+<p><img src="./res/simulations.gif" alt=""></p>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-intérêts-" class="anchor" href="#intérêts-" aria-hidden="true"></a>Intérêts :</h3>
+<ul>
+<li class="fragment fade-down">pour développer, tester, corriger plus rapidement</li>
+<li class="fragment fade-down">lorsqu’il n’y a pas assez (ou pas du tout) de micro:bit à disposition</li>
+</ul>
+<h3><a id="user-content-inconvénient-" class="anchor" href="#inconvénient-" aria-hidden="true"></a>Inconvénient :</h3>
+<ul>
+<li class="fragment fade-down">risque de s’égarer (couper les haut-parleurs !)</li>
+</ul>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-interfaces-avec-simulateurs--microsoft-makecode" class="anchor" href="#les-interfaces-avec-simulateurs--microsoft-makecode" aria-hidden="true"></a>Les interfaces avec simulateurs : <a href="https://makecode.microbit.org/_8Lx6a91vma8r">Microsoft MakeCode</a></h3>
+  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_8Lx6a91vma8r" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-interfaces-avec-simulateurs--vittascience" class="anchor" href="#les-interfaces-avec-simulateurs--vittascience" aria-hidden="true"></a>Les interfaces avec simulateurs : <a href="https://fr.vittascience.com/microbit/?link=606c5661ac7dd&amp;mode=code">vittascience</a></h3>
+<iframe width='100%' height='500' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://fr.vittascience.com/microbit/?link=606c5661ac7dd&embed=1"></iframe>
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-interfaces-avec-simulateurs--create-with-code" class="anchor" href="#les-interfaces-avec-simulateurs--create-with-code" aria-hidden="true"></a>Les interfaces avec simulateurs :<a href="https://create.withcode.uk/python/E4g">create with code</a></h3>
+<iframe frameborder="0" width="100%" height="400px" src="https://create.withcode.uk/embed/E4g"><a target="_blank" href="https://create.withcode.uk/python/E4g">create.withcode.uk</a></iframe>
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-interfaces-avec-simulateurs--visual-studio" class="anchor" href="#les-interfaces-avec-simulateurs--visual-studio" aria-hidden="true"></a>Les interfaces avec simulateurs :<a href="https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress">Visual Studio</a></h3>
+<p>Pour les téméraires : Visual Studio (MS)  + extension Device Simulator Express</p>
+<p><img src="https://raw.githubusercontent.com/microsoft/vscode-python-devicesimulator/dev/assets/readmeFiles/run.gif" alt=""></p>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h2><a id="user-content-programmer-en-ligne-où-hors-ligne-" class="anchor" href="#programmer-en-ligne-où-hors-ligne-" aria-hidden="true"></a>Programmer en ligne où hors ligne ?</h2>
+<p><img src="./res/internet2.gif" alt=""></p>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-en-ligne-" class="anchor" href="#en-ligne-" aria-hidden="true"></a>En ligne :</h3>
+<ul>
+<li>
+<div style="color: lightgreen; ">rien à installer</div>
+</li>
+<li>
+<div style="color: lightgreen; ">les outils sont uniformes</div>
+<br/>
+</li>
+<li>
+<div style="color: red; ">dépendant du réseau</div>
+</li>
+<li>
+<div style="color: red; ">dépendant de la plateforme</div>
+</li>
+<li>
+<div style="color: red; ">risque accru de perte du travail</div>
+</li>
+</ul>
+<br/>
+<br/>
+<blockquote class="fragment fade-in">
+<p>Les navigateur Chromium (ou Chrome) et Opéra permettent le flashage direct de la carte (protocole WebUsb).</p>
+</blockquote>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-hors-ligne-" class="anchor" href="#hors-ligne-" aria-hidden="true"></a>Hors ligne :</h3>
+<ul>
+<li>
+<div style="color: lightgreen; ">sûr</div>
+</li>
+<li>
+<div style="color: lightgreen; ">rapide</div>
+<br/>
+</li>
+<li>
+<div style="color: red; ">installation peut être compliqué (dépendances python)</div>
+</li>
+<li>
+<div style="color: red; ">gestion des mises à jour (dépendances python)</div>
+</li>
+</ul>
+<br/>
+<br/>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-les-deux-" class="anchor" href="#les-deux-" aria-hidden="true"></a>Les deux ?</h3>
+<p>Certaines interfaces sont disponibles dans les deux configurations :</p>
+<ul>
+<li>MakeCode : application disponible pour Windows, mais se charge aussi dans le cache du navigateur (pas de simulateur hors ligne),</li>
+<li>Scratch : interaction avec la carte plutôt que programmation.</li>
+</ul>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h2><a id="user-content-programmer-avec-des-blocs-du-python-ou-les-deux-" class="anchor" href="#programmer-avec-des-blocs-du-python-ou-les-deux-" aria-hidden="true"></a>Programmer avec des blocs, du python ou les deux ?</h2>
+<p>Choisir en toute confiance …</p>
+<p><img src="./res/snake.gif" alt=""></p>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-programmation-en-bloc" class="anchor" href="#programmation-en-bloc" aria-hidden="true"></a>Programmation en bloc</h3>
+<p>Pour : cycle 4, CAP, transition (2nde)</p>
+<ul>
+<li>Le cas Scratch : pour interagir avec un code (parfait pour les jeux).</li>
+<li>MakeCode : le plus accessible et intuitif, de très nombreuses extensions.
+<a href="https://github.com/iremlp/brochure-IREM---microbit/blob/master/fiches/fiche_mb_makecode_blocsPrincipaux.tex.pdf">fiche récapitulative des principaux blocs (pas à jour)</a></li>
+<li>VittaScience : français, de nombreux capteurs de toutes sortes.</li>
+<li>Edublock : le texte des blocs reprend la syntaxe python.</li>
+<li>…</li>
+</ul>
+<p><strong>Remarque</strong> : on peut définir de <strong>vraies fonctions</strong> avec MakeCode, VittaScience ou EduBlock.</p>
+
+            </section>
+        
+            <section >
+                <h3><a id="user-content-programmation-100-python" class="anchor" href="#programmation-100-python" aria-hidden="true"></a>Programmation 100% python</h3>
+<p>Avant de programmer : <a href="https://microbit-micropython.readthedocs.io/fr/latest/">lire la doc officielle (in english)</a>, où bien cette <a href="https://github.com/iremlp/brochure-IREM---microbit/blob/master/fiches/fiche_mbpy-FT_python.tex.pdf">fiche IREM (in french)</a>.</p>
+<iframe width='80%' height='400' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://python.microbit.org/v/2"></iframe>
+            </section>
+        
+            <section >
+                <p>Son cousin, hors ligne : <a href="https://codewith.mu/">Mu</a></p>
+<p><img src="./res/prise_en_main_mu.gif" alt="" width="40%"></p>
+<p>De nombreux atouts : libre, simple, convivial, complet (REPL, fichiers, traceur, console)</p>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h3><a id="user-content-programmation-bloc-et-python" class="anchor" href="#programmation-bloc-et-python" aria-hidden="true"></a>Programmation bloc et python</h3>
+<p>sur MakeCode, VittaScience, EduBlock</p>
+</br>
+</br>
+<p>Semble idéal pour la transition …</p>
+</br>
+<p>… à condition d’en connaître les limites.</p>
+
+            </section>
+        
+            <section >
+                <h4><a id="user-content-problème-n°1--les-allers-retours" class="anchor" href="#problème-n°1--les-allers-retours" aria-hidden="true"></a>Problème n°1 : les allers-retours</h4>
+<p>(Edublock, VittaScience)</p>
+<p>Fonctionne très bien dans le sens BLOC -&gt; PYTHON</p>
+<p>Mais pas du tout dans l’autre : les modifications faites dans le script Python ne sera pas
+implémenté dans le code en blocs.</p>
+<ul>
+<li>risque de pertes de code</li>
+<li>source de confusion</li>
+</ul>
+
+            </section>
+        
+            <section >
+                <h4><a id="user-content-problème-n°2--le-faux-python" class="anchor" href="#problème-n°2--le-faux-python" aria-hidden="true"></a>Problème n°2 : le faux Python</h4>
+<p>(MakeCode)</p>
+<p>Un exemple de code classique:</p>
+<pre><code class="language-python">from microbit import *
+
+display.scroll(&quot;Hello&quot;)
+while True:
+  if button_a.was_pressed():
+    display.show(Image.HAPPY)
+</code></pre>
+<p>Le même code avec MakeCode</p>
+<pre><code class="language-python">def on_button_pressed_a():
+    basic.show_icon(IconNames.HAPPY)
+
+input.on_button_pressed(Button.A, on_button_pressed_a)
+
+basic.show_string(&quot;Hello&quot;)
+</code></pre>
+
+            </section>
+        
+            <section >
+                <h4><a id="user-content-problème-n°2--le-faux-python-1" class="anchor" href="#problème-n°2--le-faux-python-1" aria-hidden="true"></a>Problème n°2 : le faux Python</h4>
+<ul>
+<li class="fragment fade-down">On ne retrouve pas les méthodes de la bibliothèque officielle.</li>
+<li class="fragment fade-down">On n’importe pas de modules.</li>
+<li class="fragment fade-down">On n’écrit pas de boucle ‘while True’ spécifique au microcontrôleur.</li>
+<li class="fragment fade-down">On appelle beaucoup de fonctions</li>
+<li class="fragment fade-down">On écrit du Javascript déguisé en Python.</li>
+</ul>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+    <section>
+        <section >
+            <h2><a id="user-content-gérer-le-travail-des-élèves-" class="anchor" href="#gérer-le-travail-des-élèves-" aria-hidden="true"></a>Gérer le travail des élèves ?</h2>
+<p><img src="./res/superviser.gif" alt=""></p>
+<p>Quelques solutions intéressantes</p>
+
+            </section>
+        
+            <section >
+                <h2><a id="user-content-microbit-classroom" class="anchor" href="#microbit-classroom" aria-hidden="true"></a>Microbit Classroom</h2>
+<p><a href="https://classroom.microbit.org/">microbit classroom</a></p>
+<p>Vous reprendrez bien une <a href="https://raw.githubusercontent.com/iremlp/brochure-IREM---microbit/master/fiches/fiche_mb-classroom.tex.pdf">petite fiche</a> ?</p>
+<p>Le mieux c’est encore d’essayer : <a href="microbit.org/join">microbit.org/join</a></p>
+<p><img src="./res/microbit-classroom_ID.png" alt="">
+<img src="./res/microbit-classroom_PIN.png" alt=""></p>
+
+            </section>
+        
+            <section >
+                <h2><a id="user-content-microbit-classroom-1" class="anchor" href="#microbit-classroom-1" aria-hidden="true"></a>Microbit Classroom</h2>
+<ul>
+<li>facile à prendre en main</li>
+<li>pas de compte (prof ou élève) à créer</li>
+<li>sauvegarde du travail : bien respecter la procédure</li>
+<li>version bêta … qques comportements inattendus sont possibles</li>
+</ul>
+
+            </section>
+        
+            <section >
+                <h2><a id="user-content-vittascience-classroom" class="anchor" href="#vittascience-classroom" aria-hidden="true"></a>VittaScience Classroom</h2>
+<p><a href="vittascience.com/classroom">vittascience.com/classroom</a></p>
+<p>Pour tester : <a href="https://fr.vittascience.com/classroom/login?link=gu67i">https://fr.vittascience.com/classroom/login?link=gu67i</a></p>
+
+            </section>
+        
+            <section >
+                <h2><a id="user-content-vittascience-classroom-1" class="anchor" href="#vittascience-classroom-1" aria-hidden="true"></a>VittaScience Classroom</h2>
+<ul>
+<li>Moins intuitif que microbit classroom</li>
+<li>Nécessiter de se créer un compte</li>
+<li>Pas d’interaction en direct</li>
+<li>Suivi plus pointu, évaluation ?</li>
+<li>Version bêta : rdv dans un mois</li>
+</ul>
+
+            </section>
+        
+
+    </section>
+    
+
+
+
+    
+        <section >
+            
+            <h2><a id="user-content-conclusion" class="anchor" href="#conclusion" aria-hidden="true"></a>Conclusion</h2>
+<ul>
+<li><span style="color: lightblue">MakeCode </span> : pour découvrir, faire du bloc, partager facilement.</li>
+<li><span style="color: lightgreen">VittaScience </span> : pour la transition bloc/Python, les projets plus élaborés, créer et partatger des collections d’activités.</li>
+<li><span style="color: purple">Mu </span> : pour faire du Python</li>
+</ul>
+<p>Quelques fiches ressources : <a href="https://github.com/iremlp/brochure-IREM---microbit">github.com/iremlp/brochure-IREM—microbit</a></p>
+
+            </section>
+    
+
+
+    </div>
+
+
+  </div>
+
+  <script src="libs/reveal.js/3.8.0/lib/js/head.min.js"></script>
+  <script src="libs/reveal.js/3.8.0/js/reveal.js"></script>
+
+  <script>
+
+    // More info https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+
+        controls: true,
+        controlsTutorial: true,
+        controlsLayout: 'bottom-right',
+        controlsBackArrows: 'faded',
+        progress: true,
+        slideNumber: false,
+        history: true,
+        keyboard: true,
+        overview: true,
+        center: true,
+        touch: true,
+        loop: false,
+        rtl: false,
+        shuffle: false,
+        fragments: true,
+        fragmentInURL: false,
+        embedded: false,
+        help: true,
+        showNotes: false,
+        autoPlayMedia: false,
+        autoSlide: 0,
+        autoSlideStoppable: true,
+        autoSlideMethod: Reveal.navigateNext,
+        defaultTiming: 120,
+        mouseWheel: false,
+        hideAddressBar: true,
+        previewLinks: false,
+        transition: 'slide',
+        transitionSpeed: 'default',
+        backgroundTransition: 'default',
+        viewDistance: 3,
+        parallaxBackgroundImage: '',
+        parallaxBackgroundSize: '',
+        parallaxBackgroundHorizontal: 0,
+        parallaxBackgroundVertical: 0,
+        display: 'block',
+
+        // More info https://github.com/hakimel/reveal.js#dependencies
+        dependencies: [
+            // { src: 'libs/reveal.js/3.8.0/lib/js/classList.js', condition: function () { return !document.body.classList; } },
+            // { src: 'libs/reveal.js/3.8.0/plugin/markdown/marked.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+            // { src: 'libs/reveal.js/3.8.0/plugin/markdown/markdown.js', condition: function () { return !!document.querySelector('[data-markdown]'); } },
+            { src: 'libs/reveal.js/3.8.0/plugin/notes/notes.js', async: true },
+            { src: 'libs/reveal.js/3.8.0/plugin/chart/Chart.min.js' },
+            { src: 'libs/reveal.js/3.8.0/plugin/chart/csv2chart.js' },
+            { src: 'libs/reveal.js/3.8.0/plugin/embed-tweet/embed-tweet.js' },
+            { src: 'libs/reveal.js/3.8.0/plugin/math/math.js', async: true },
+            { src: 'libs/highlight.js/9.15.10/highlight.js', async: true },
+            { src: 'libs/reveal.js/3.8.0/plugin/anything/anything.js' },
+            { src: 'libs/reveal.js/3.8.0/plugin/mermaid/mermaid.min.js', async: true, callback: function() {mermaid.initialize({startOnLoad:false})} },	
+
+           
+        { src: 'libs/reveal.js/3.8.0/plugin/search/search.js', async: true },
+           
+
+           
+        { src: 'libs/reveal.js/3.8.0/plugin/zoom-js/zoom.js', async: true },
+            
+
+            
+        { src: 'libs/reveal.js/3.8.0/plugin/chalkboard/chalkboard.js' },
+            
+
+            
+        { src: 'libs/reveal.js/3.8.0/plugin/menu/menu.js' },
+            
+
+            
+        { src: 'libs/reveal.js/3.8.0/plugin/title-footer/title-footer.js', async: true, callback: function () { title_footer.initialize(); } },
+            
+
+        {
+            src: 'libs/highlight.js/9.15.10/reveal-code-focus-1.0.0-mod.js',
+            async: true,
+            callback: function () {
+                RevealCodeFocus();
+            }
+        },
+           // {src: 'libs/reveal.js/3.8.0/plugin/line-numbers/line-numbers.js'}
+        ]
+        ,
+    keyboard: {
+        67: function () { RevealChalkboard.toggleNotesCanvas() },	// toggle notes canvas when 'c' is pressed
+        66: function () { RevealChalkboard.toggleChalkboard() },	// toggle chalkboard when 'b' is pressed
+        46: function () { RevealChalkboard.clear() },	// clear chalkboard when 'DEL' is pressed
+        8: function () { RevealChalkboard.reset() },	// reset chalkboard data on current slide when 'BACKSPACE' is pressed
+        68: function () { RevealChalkboard.download() },	// downlad recorded chalkboard drawing when 'd' is pressed
+    },
+    math: {
+       // mathjax: 'libs/reveal.js/3.8.0/plugin/math/MathJax.js',
+             mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+            config: 'TeX-AMS_HTML-full'
+    },
+    chart: {
+        defaults: {
+            global: {
+                title: { fontColor: "#FFF" },
+                legend: {
+                    position: "bottom",
+                        labels: { fontColor: "#FFF" },
+                },
+                tooltips: {
+                    labels: { fontColor: "#FFF" },
+                },
+            },
+            scale: {
+                scaleLabel: { fontColor: "#FFF" },
+                gridLines: { color: "#FFF", zeroLineColor: "#FFF" },
+                ticks: { fontColor: "#FFF" },
+            }
+        },
+        line: { borderColor: ["rgba(20,220,220,.8)", "rgba(220,120,120,.8)", "rgba(20,120,220,.8)"], "borderDash": [[5, 10], [0, 0]] },
+        bar: { backgroundColor: ["rgba(20,220,220,.8)", "rgba(220,120,120,.8)", "rgba(20,120,220,.8)"] },
+        pie: { backgroundColor: [["rgba(0,0,0,.8)", "rgba(220,20,20,.8)", "rgba(20,220,20,.8)", "rgba(220,220,20,.8)", "rgba(20,20,220,.8)"]] },
+        radar: { borderColor: ["rgba(20,220,220,.8)", "rgba(220,120,120,.8)", "rgba(20,120,220,.8)"] },
+    },
+    anything: [ 
+	 {
+	  className: "mermaid"
+	 },
+	 // ...
+	],
+    menu: {
+        // Specifies which side of the presentation the menu will 
+        // be shown. Use 'left' or 'right'.
+        side: 'left',
+
+            // Specifies the width of the menu.
+            // Can be one of the following:
+            // 'normal', 'wide', 'third', 'half', 'full', or
+            // any valid css length value
+            width: 'normal',
+
+                // Add slide numbers to the titles in the slide list.
+                // Use 'true' or format string (same as reveal.js slide numbers)
+                numbers: false,
+
+                    // Specifies which slide elements will be used for generating
+                    // the slide titles in the menu. The default selects the first
+                    // heading element found in the slide, but you can specify any
+                    // valid css selector and the text from the first matching
+                    // element will be used.
+                    // Note: that a section data-menu-title attribute or an element
+                    // with a menu-title class will take precedence over this option
+                    titleSelector: 'h1, h2, h3, h4, h5, h6',
+
+                        // If slides do not have a matching title, attempt to use the
+                        // start of the text content as the title instead
+                        useTextContentForMissingTitles: false,
+
+                            // Hide slides from the menu that do not have a title.
+                            // Set to 'true' to only list slides with titles.
+                            hideMissingTitles: false,
+
+                                // Adds markers to the slide titles to indicate the 
+                                // progress through the presentation. Set to 'false'
+                                // to hide the markers.
+                                markers: true,
+
+                                    // Specify custom panels to be included in the menu, by
+                                    // providing an array of objects with 'title', 'icon'
+                                    // properties, and either a 'src' or 'content' property.
+                                    // custom: false,
+                                    custom: [],
+                                        // Specifies the themes that will be available in the themes
+                                        // menu panel. Set to 'true' to show the themes menu panel
+                                        // with the default themes list. Alternatively, provide an
+                                        // array to specify the themes to make available in the
+                                        // themes menu panel, for example...
+                                        // [
+                                        //     { name: 'Black', theme: 'css/theme/black.css' },
+                                        //     { name: 'White', theme: 'css/theme/white.css' },
+                                        //     { name: 'League', theme: 'css/theme/league.css' }
+                                        // ]
+                                        themes: false,
+
+                                            // Specifies the path to the default theme files. If your
+                                            // presentation uses a different path to the standard reveal
+                                            // layout then you need to provide this option, but only
+                                            // when 'themes' is set to 'true'. If you provide your own 
+                                            // list of themes or 'themes' is set to 'false' the 
+                                            // 'themesPath' option is ignored.
+                                            themesPath: 'css/theme/',
+
+                                                // Specifies if the transitions menu panel will be shown.
+                                                // Set to 'true' to show the transitions menu panel with
+                                                // the default transitions list. Alternatively, provide an
+                                                // array to specify the transitions to make available in
+                                                // the transitions panel, for example...
+                                                // ['None', 'Fade', 'Slide']
+                                                transitions: false,
+
+                                                    // Adds a menu button to the slides to open the menu panel.
+                                                    // Set to 'false' to hide the button.
+                                                    openButton: true,
+
+                                                        // If 'true' allows the slide number in the presentation to
+                                                        // open the menu panel. The reveal.js slideNumber option must 
+                                                        // be displayed for this to take effect
+                                                        openSlideNumber: false,
+
+                                                            // If true allows the user to open and navigate the menu using
+                                                            // the keyboard. Standard keyboard interaction with reveal
+                                                            // will be disabled while the menu is open.
+                                                            keyboard: true,
+
+                                                                // Normally the menu will close on user actions such as
+                                                                // selecting a menu item, or clicking the presentation area.
+                                                                // If 'true', the sticky option will leave the menu open
+                                                                // until it is explicitly closed, that is, using the close
+                                                                // button or pressing the ESC or m key (when the keyboard 
+                                                                // interaction option is enabled).
+                                                                sticky: false,
+
+                                                                    // If 'true' standard menu items will be automatically opened
+                                                                    // when navigating using the keyboard. Note: this only takes 
+                                                                    // effect when both the 'keyboard' and 'sticky' options are enabled.
+                                                                    autoOpen: true,
+
+                                                                        // If 'true' the menu will not be created until it is explicitly
+                                                                        // requested by calling RevealMenu.init(). Note this will delay
+                                                                        // the creation of all menu panels, including custom panels, and
+                                                                        // the menu button.
+                                                                        delayInit: false,
+
+                                                                            // If 'true' the menu will be shown when the menu is initialised.
+                                                                            openOnInit: false,
+
+                                                                                // By default the menu will load it's own font-awesome library
+                                                                                // icons. If your presentation needs to load a different
+                                                                                // font-awesome library the 'loadIcons' option can be set to false
+                                                                                // and the menu will not attempt to load the font-awesome library.
+                                                                                loadIcons: false
+    },
+    chalkboard: {
+        toggleChalkboardButton: { left: "60px", bottom: "30px", top: "auto", right: "auto" },
+        toggleNotesButton: { left: "90px", bottom: "30px", top: "auto", right: "auto" },
+
+    }
+    });
+
+
+
+</script>
+</body>
+
+</html>
